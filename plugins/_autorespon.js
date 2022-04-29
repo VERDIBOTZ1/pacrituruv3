@@ -15,7 +15,7 @@ handler.all = async function (m, { isBlocked }) {
     try {
         if (m.mentionedJid.includes(this.user.jid) && m.isGroup) {
             await this.send2Button(m.chat,
-                isBanned ? `${namabot} tidak aktif` : banned ? 'kamu dibanned' : `Haori di sini, Btw ngapain manggil kangen ya bg?`,
+                isBanned ? `${namabot} tidak aktif` : banned ? 'kamu dibanned' : `Fachri di sini, Btw ngapain manggil kangen ya bg?`,
                 footer,
                 isBanned ? 'Unban' : banned ? '🍃 Owner' : '🧾 Menu',
                 isBanned ? '.unban' : banned ? '.owner' : '.?',
@@ -40,7 +40,7 @@ handler.all = async function (m, { isBlocked }) {
 ╠═ Tertarik Untuk Beli Bot Ini?
 ╠➥Ketuk Tombol Di Bawah Ya
 ║
-╠═ ©2021 Rpg wabot-aq
+╠═ ©2022 Rpg wabot-aq
 ╠═ Scrip original by Nurutomo
 ╠═〘 ${namabot} 〙 ═`.trim(), footer, 'Dana', '#viadana', 'GoPay', '#viagopay', m)
 }
@@ -72,7 +72,7 @@ handler.all = async function (m, { isBlocked }) {
     if (new Date() * 1 - setting.status > 1000) {
         let _uptime = process.uptime() * 1000
         let uptime = clockString(_uptime)
-        await this.setStatus(`Im Haoribotz 👾 || ⏰ Aktif Selama ${uptime} ||📡 Mode: ${global.opts['self'] ? 'Private' : setting.groupOnly ? 'Hanya Grup' : 'Publik'} || 🎨 Create By Zivfurr`).catch(_ => _)
+        await this.setStatus(`Im FachriBotz 🌟 || ⏰ Aktif Selama ${uptime} ||📡 Mode: ${global.opts['self'] ? 'Private' : setting.groupOnly ? 'Hanya Grup' : 'Publik'} || 🎨 Create By Fachri`).catch(_ => _)
         setting.status = new Date() * 1
     }
 
