@@ -4,7 +4,7 @@ let handler = async (m, { conn, text }) => {
   Status : Online 
 Oke Sekarang Bisa（ ・∀・）
 `.trim()
-conn.send2ButtonLoc(m.chat, await (await fetch(fla + 'Haori Di Sini')).buffer(), ext, '𝙷𝚊𝚘𝚛𝚒 𝚂𝚒𝚊𝚙 𝙼𝚎𝚖𝚋𝚊𝚗𝚝𝚞 𝙺𝚊𝚖𝚞 (*´ω｀*)', 'Siap Haori', 'Iya', 'Hallo Haori', 'Hallo Haori', m)
+conn.send2ButtonLoc(m.chat, await (await fetch(fla + 'Fachri Di Sini')).buffer(), ext, '𝙷𝚊𝚘𝚛𝚒 𝚂𝚒𝚊𝚙 𝙼𝚎𝚖𝚋𝚊𝚗𝚝𝚞 𝙺𝚊𝚖𝚞 (*´ω｀*)', 'Siap Fachri', 'Iya', 'Hallo Fachri', 'Hallo Fachri', m)
 
 }
 handler.customPrefix = /^(tes|tess|test)$/i
