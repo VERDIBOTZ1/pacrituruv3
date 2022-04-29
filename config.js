@@ -34,10 +34,10 @@ gc1 = ''
 gc2 = ''
 gc3 = ''
 global.linkGC = ['https://chat.whatsapp.com/Fh0eaf7IuuG3i67wXRC1O8', ''] // ganti jadi group lu
-global.owner = ['6285158866902'] // Put your number here //owner eval
-global.kontak = ['6285158866902','6282186172016'] //Ketika ada yang ngetik #owner
-global.mods = ['6285158866902'] // Want some help?
-global.prems = ['6285158866902'] // Premium user has unlimited limit
+global.owner = ['6285713041886'] // Put your number here //owner eval
+global.kontak = ['6285713041886','6285713041886'] //Ketika ada yang ngetik #owner
+global.mods = ['6285713041886'] // Want some help?
+global.prems = ['6285713041886'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com', 
@@ -72,8 +72,8 @@ leyskey = 'dappakntlll'
 bearkey = 'buy'
 
 //xteam        MIMINETBOT
-namaig = 'https://instagram.com/drak_ipul123'
-namagithub = 'GAK ADA :)'
+namaig = 'https://instagram.com/sfdesign_id'
+namagithub = 'https://github.com/Ipulpachri'
 kasihcaption = `Nih kak`
 namakontak1 = ''
 namakontak2 = ''
@@ -81,21 +81,21 @@ namakontak2 = ''
 //kasihcaption = `Nih Kak`
 
 // Sticker WM
-global.packname = '▧ Hασrι - Chαn' // ganti aja
-global.author = '© Zîѵғurr' // ganti aja
+global.packname = 'Fachri - Botz' // ganti aja
+global.author = '© 𝐅𝐀𝐂𝐇𝐑𝐈' // ganti aja
 
 //yyy
 bc = 'Ħασяιвσтʓ' //King Of Bear Broadcast
-footer = '\nHᴀᴏʀɪBᴏᴛᴢ 🔭'
-namabot = '𝙷𝚊𝚘𝚛𝚒 𝙱𝚘𝚝𝚣 🐾'
-namalu = 'Zivfurr'
-global.botwm = `𝙷𝚊𝚘𝚛𝚒 𝙱𝚘𝚝𝚣 🐾`//UBAH JADI NAMAMU
+footer = '\nꜰᴀᴄʜʀɪʙᴏᴛᴢ 🌟'
+namabot = 'ꜰᴀᴄʜʀɪʙᴏᴛᴢ ✨'
+namalu = '𝐅𝐀𝐂𝐇𝐑𝐈'
+global.botwm = `ꜰᴀᴄʜʀɪʙᴏᴛᴢ ✨`//UBAH JADI NAMAMU
 
 
 // 
 wait = '_*Tunggu Sebentar...*_'
 global.wait = '_*Tunggu Sebentar...*_'
-global.rpg = 'Fitur Rpg Dimatikan\nKetik *!enable* *rpg* untuk menggunakan fitur ini!\nKalo Mau main Disini aja\nhttps://chat.whatsapp.com/FnNAbem8o6r4pgLhSdO8Q9'
+global.rpg = 'Fitur Rpg Dimatikan\nKetik *!enable* *rpg* untuk menggunakan fitur ini!\nKalo Mau main Disini aja\nhttps://chat.whatsapp.com/'
 global.nsfw = 'Fitur NSFW Dimatikan\nKetik *!enable* *nsfw* untuk menggunakan fitur ini!\n“Katakanlah kepada orang laki-laki yang beriman: Hendaklah mereka menahan pandanganya, dan memelihara kemaluannya; … Katakanlah kepada wanita yang beriman: Hendaklah mereka menahan pandangannya, dan kemaluannya, dan janganlah mereka Menampakkan perhiasannya, kecuali yang (biasa) nampak dari padany,” \n(TQS. Al-Nur [24]: 30-31).'
 global.eror = '_*Server Error*_'
 global.botdate = `❏ ${wktu}\n❏ ${week} ${date}`
@@ -106,7 +106,7 @@ global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=tr
 global.multiplier = 36 // The higher, The harder levelup
 
 //*****************PEMBATAS*********************
-// JANGAN DI GANTI NTAR KLO GABISA JAN TANYA GW
+// JANGAN DI GANTI NTAR KLO GABISA JAN TANYA GW 
 
 let fs = require('fs')
 let chalk = require('chalk')
