@@ -16,7 +16,7 @@ let handler = async function (m, { text, usedPrefix, command }) {
                             {
                                 "rows": [{
                                          "title": `📊 LIST MENU`,
-                                         "description": "List Menu Haoribotz",
+                                         "description": "List Menu Fachribotz",
                                          "rowId": ".menu"
                                     }, {
                                          "title": `💌 MY OWNER`,
@@ -27,7 +27,7 @@ let handler = async function (m, { text, usedPrefix, command }) {
                                          "description": "Daftar Ulang",
                                          "rowId": '.unreg ' + sn
                        }],
-                    "title": "Created By Zivfurr ♡"
+                    "title": "Created By Fachri ♡"
                   }
                         ], "contextInfo": 
                          { "stanzaId": m.key.id,
@@ -144,7 +144,7 @@ conn.relayWAMessage(conn.prepareMessageFromContent(m.chat, {
                             {
                                 "rows": [{
                                          "title": `📊 LIST MENU`,
-                                         "description": "List Menu Haoribotz",
+                                         "description": "List Menu FachriBotz",
                                          "rowId": ".menu"
                                     }, {
                                          "title": `🎁 Donasi`,
@@ -155,7 +155,7 @@ conn.relayWAMessage(conn.prepareMessageFromContent(m.chat, {
                                          "description": "Profile Anda!",
                                          "rowId": '.profile'
                        }],
-                    "title": "Created Zivfurr ♡"
+                    "title": "Created Fachri ♡"
                   }
                         ], "contextInfo": 
                          { "stanzaId": m.key.id,
