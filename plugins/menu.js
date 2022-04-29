@@ -55,35 +55,26 @@ const defaultMenu = {
 ➺ *Uptime:* %muptime
 ➺ *Database:* %rtotalreg dari %totalreg
 
-〓〓〓〓〓 *O F F I C I A L* 〓〓〓〓
-%waofc
 
-〓〓〓〓〓 *O W N E R* 〓〓〓〓
+❊╌──┈⊰᯽ *OWNER* ⊰᯽⊱┈──╌❊
 %ow
 
-〓〓〓〓 *M Y F R I E N D* 〓〓〓〓
-%par
-%par2
-%par3
-%admn
-%par6
-
-〓〓〓〓〓 *INFO COMMAND* 〓〓〓〓
+❊╌──┈⊰᯽ *INFO COMMAND* ⊰᯽⊱┈──╌❊
 
 ▸ *▱* = Free
 ▸ *▰* = Premium
 ▸ *□* = No Limit
 ▸ *■* = Limit
 
-*❊╌──┈⊰᯽⊱COMMAND⊰᯽⊱┈──╌❊*
+*❊╌──┈⊰᯽⊱ COMMAND ⊰᯽⊱┈──╌❊*
                                        ▾
 `.trimStart(),
 
-  header: '╭───═ ⳹°❀❬ *%category* ❭❀° ═───···ɞ´-\n┷',
+  header: '╭───═ ⳹°❀⊱ *%category* ⊱❀° ═───···ɞ´-\n┷',
   body: '%isPremium ◌ ⃝%islimit⪼ %cmd',
   footer: '┯\n╰─────═┅═──────···⳹ ❋ཻུ۪۪⸙',
 
-  after: `⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❘❚❙❘❙❙❘❚❙❘❙❙❘❘❙❚❙❘❙❚❙❘❙❘❙❚❙⌕.
+  after: `⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❘❚❙❘❙❙❘❚❙❘❙❙❘❘❙❚❙❘❙❚❙❘❙❘❙❚❙ ⌕.
 
      %me
 
@@ -105,7 +96,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
 
  m, { contextInfo: { mentionedJid: conn.parseMention(tag) }}
 
- let ow = `@${'6285158866902'.split('@')[0]}`
+ let ow = `@${'6285713041886'.split('@')[0]}`
 
  m, { contextInfo: { mentionedJid: conn.parseMention(tag) }}
 
@@ -121,7 +112,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
 
  m, { contextInfo: { mentionedJid: conn.parseMention(tag) }}
 
- let admn = `@${'6281585591079'.split('@')[0]}`
+ let admn = `@${'6285713041886'.split('@')[0]}`
 
  m, { contextInfo: { mentionedJid: conn.parseMention(tag) }}
 
@@ -514,7 +505,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
 
     const detikk = Math.floor( lebih % (1000 * 60) / 1000)
 
-const ultah = new Date('april 5, 2023 23:59:59')
+const ultah = new Date('oktober 5, 2023 23:59:59')
 
     const sekarat = new Date().getTime() 
 
@@ -572,7 +563,7 @@ const ultah = new Date('april 5, 2023 23:59:59')
 
     message: `Hai Kak ${name}!`, 
 
-    orderTitle: `▮Menu ▸`,
+    orderTitle: `Menu ▸`,
 
     thumbnail: await (await fetch(fla + 'Menu')).buffer(), //Gambarnye
 
@@ -606,7 +597,7 @@ const ultah = new Date('april 5, 2023 23:59:59')
 
     message: `Hai Kak ${name}!`, 
 
-    orderTitle: `▮Menu ▸`,
+    orderTitle: `Menu ▸`,
 
     thumbnail: await (await fetch(fla + teks)).buffer(), //Gambarnye
 
@@ -720,13 +711,13 @@ const ultah = new Date('april 5, 2023 23:59:59')
 
       
 
-    let txtmenu = `╭──═ ⳹°❀❬ *USER* ❭❀° ═──···ɞ´-
+    let txtmenu = `╭──═ ⳹°❀⊱ *USER* ⊱❀° ═──···ɞ´-
 │➺ *Name:* ${name}
 │➺ *Tag:* ${tag}
 │➺ *Bio:* ${bioo ? bioo : ''}
 │➺ *Status:* ${premium ? 'Premium' : 'Free'} User
 │➺ *Limit:* ${global.db.data.users[m.sender].limit}
-┠──═ ⳹°❀❬  *I N F O* ❭❀° ═─···ɞ´-
+┠──═ ⳹°❀⊱  *INFO* ⊱❀° ═─···ɞ´-
 │➺ *Runtime:* ${uptime}
 │➺ *Baterai:* ${conn.battery != undefined ? `${conn.battery.value}% ${conn.battery.live ? '🔌 pengisian' : ''}` : 'tidak diketahui'}
 │➺ *Prefix :* [ ${_p} ]
@@ -735,18 +726,18 @@ const ultah = new Date('april 5, 2023 23:59:59')
 │➺ *Blocked:* ${conn.blocklist.length}
 │➺ *Chat Banned:* ${Object.entries(global.db.data.chats).filter(chat => chat[1].isBanned).length}
 │➺ *User Banned:* ${Object.entries(global.db.data.users).filter(user => user[1].banned).length}
-┠═ ⳹°❀❬ *TAHUN BARU*  ❭❀° ═─ɞ´-
+┠═ ⳹°❀⊱ *TAHUN BARU*  ⊱❀° ═─ɞ´-
 │➺ ${jhari} Hari ${jjam} Jam ${mmmenit} Menit ${ddetik} Detik
 │
-┠═ ⳹°❀❬ *RAMADHAN* ❭❀° ═─ɞ´-
+┠═ ⳹°❀⊱ *RAMADHAN* ⊱❀° ═─ɞ´-
 │➺ ${harii} Hari ${jamm} Jam ${menitt} Menit ${detikk} Detik
 │
-┠═ °❀❬ *ULTAH ZIVFURR* ❭❀° ═─ɞ´
+┠═ °❀⊱ *ULTAH FACHRI* ⊱❀° ═─ɞ´
 │➺ ${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik
 ┴
 ✧
 ┬ 📮 *Note* :
-│Beri Jeda Yah Kak ^ω^
+│Beri Jeda Kak biar ga delay ^ω^
 ╰━━━━━━━━━━━━━┈─ɞ
    ▌│█║▌║▌║║▌║▌║█│▌
 
@@ -764,7 +755,7 @@ const ultah = new Date('april 5, 2023 23:59:59')
 
           "footerText": txtmenu,
 
-          "buttonText": "Klik Aku Kak",
+          "buttonText": "Klik Disini Kak",
 
           "listType": "SINGLE_SELECT",
 
@@ -776,7 +767,7 @@ const ultah = new Date('april 5, 2023 23:59:59')
 
                                          "title": "📊 › 𐐪- Status -𐑂",
 
-                                         "description": "Status Haoribotz",
+                                         "description": "Status Fachribotz",
 
                                          "rowId": ".mystat"
 
@@ -824,13 +815,13 @@ const ultah = new Date('april 5, 2023 23:59:59')
 
                                          "title": "💌 › 𐐪- Group Bot -𐑂",
 
-                                         "description": "Join Ke Grup Official Haoribotz",
+                                         "description": "Join Ke Grup Official Fachribotz",
 
                                          "rowId": ".gcbot"
 
                        }],
 
-                    "title": "▮𝗦𝘁𝗮𝘁𝘂𝘀 」"
+                    "title": "𝗦𝘁𝗮𝘁𝘂𝘀 」"
 
                 }, {
 
@@ -1086,13 +1077,13 @@ const ultah = new Date('april 5, 2023 23:59:59')
 
                   "title": "👩🏻‍💻 〉ɞ 『 Owner 』",
 
-                  "description": "Hanya Untuk Owner Haori",
+                  "description": "Hanya Untuk Owner Fachri",
 
                   "rowId": ".? owner"
 
                 }],
 
-                                "title": "▮𝗖𝗮𝘁𝗲𝗴𝗼𝗿𝘆 」"
+                                "title": "𝗖𝗮𝘁𝗲𝗴𝗼𝗿𝘆 」"
 
                                 }, {
 
@@ -1100,7 +1091,7 @@ const ultah = new Date('april 5, 2023 23:59:59')
 
                                 "title": "📝 ∫ » Info Updated «",
 
-                                "description": "Tentang Update Terakhir Di Haoribotz",
+                                "description": "Tentang Update Terakhir Di Fachribotz",
 
                                 "rowId": ".notes"
 
@@ -1140,7 +1131,7 @@ const ultah = new Date('april 5, 2023 23:59:59')
 
                                 "title": "🔬  ∫ » Script «",
 
-                                "description": "Script Yang Di Pakai Haori",
+                                "description": "Script Yang Di Pakai Fachri",
 
                                 "rowId": ".sc"
 
@@ -1154,7 +1145,7 @@ const ultah = new Date('april 5, 2023 23:59:59')
 
                                 }],
 
-                                "title": "▮𝗜𝗻𝗳𝗼 」"
+                                "title": "𝗜𝗻𝗳𝗼 」"
 
                             }
 
@@ -1200,7 +1191,7 @@ const ultah = new Date('april 5, 2023 23:59:59')
 
     message: '[❗] Memuat Menu ' + teks + '...\n Semangat Yah Kak ^ω^', 
 
-    orderTitle: `▮Menu ▸`,
+    orderTitle: `Menu ▸`,
 
     thumbnail: await (await fetch(fla + 'Loading')).buffer(), //Gambarnye
 
@@ -1402,7 +1393,7 @@ const ultah = new Date('april 5, 2023 23:59:59')
 
             "mediaKey": "XWv4hcnpGY51qEVSO9+e+q6LYqPR3DbtT4iqS9yKhkI=",
 
-            "fileName": '✿.｡.:*НɑоɾiΒɵтȥ*:.｡.✿',
+            "fileName": '✿.｡.:*FachriBotz*:.｡.✿',
 
             "fileEncSha256": "NI9ykWUcXKquea4BmH7GgzhMb3pAeqqwE+MTFbH/Wk8=",
 
@@ -1430,7 +1421,7 @@ const ultah = new Date('april 5, 2023 23:59:59')
 
           "title": `✧────────···[ Dashboard ]···─────────✧`.trim(),
 
-          "description": `🎮 Ƙαɴɴα вσт `.trim(),
+          "description": `🎮 Fachri вσтz `.trim(),
 
           "footerText": 
 
@@ -1536,7 +1527,7 @@ text,
 
         "description": `\n${wm}\n` + text,
 
-        "retailerId": `${week}, ${date}  |  ʙʏ ʟᴇᴛᴛᴀ-sᴀᴍᴀ ‷♪`,
+        "retailerId": `${week}, ${date}  |  By Fachri`,
 
         "url": '\n',
 
@@ -1586,7 +1577,7 @@ text,
 
           thumbnail: logo,
 
-         mediaUrl: `https://youtu.be/OiTiqN9h4Xo`
+         mediaUrl: `https://youtu.be/c/SaefulFahri`
 
         }
 
