@@ -30,13 +30,13 @@ $ npm i pm2 && pm2 start (sesuaikan sama sc kalian)
 
 💻 Info : Link Termux Di Klik Disini  Hapus Termux Lama Anda Ganti Sama Yang Saya Kasih`.trim()
   const button = {
-        buttonText: 'Totor By Haoribotz',
+        buttonText: 'Tutor By FachriBotz',
         description: kontol,
         sections:  [{title: "Silahkan di pilih gausah pilih yang gaada", rows: [
-        {title: '💌 › Group Haoribotz', description: "Group Utama Haoribotz", rowId:".gcbot1"},
+        {title: '💌 › Group FachriBotz', description: "Group Utama Haoribotz", rowId:".gcbot1"},
         {title: '✉️ › Gruop Kimak All Bot', description: "Group Kedua", rowId:".gcbot2"},
         {title: '✉️ › Group OneBot', description: "Gruop Ketiga", rowId:".gcbot3"},
-        {title: '🎐 › Owner', description: "Creator Haoribotz >ω<", rowId:".nowner"},
+        {title: '🎐 › Owner', description: "Creator Fachri >ω<", rowId:".nowner"},
        ] }],
         listType: 1
        }
