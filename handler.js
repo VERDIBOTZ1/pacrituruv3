@@ -576,9 +576,9 @@ global.dfail = (type, m, conn) => {
 
 	let namae = conn.getName(syappa)
   let msg = {
-    rowner: `Khusus Untuk Zivfurr Tersayang >w<`,
-    owner: `Khusus Untuk Zivfurr Tersayang >w<`,
-    mods: `Khusus Untuk Zivfurr Tersayang >w<`,
+    rowner: `Khusus Untuk Fachri Tersayang >w<`,
+    owner: `Khusus Untuk Fachri Tersayang >w<`,
+    mods: `Khusus Untuk Fachri Tersayang >w<`,
     premium: 'Perintah Ini khusus pengguna _*Premium*_ !',
     group: 'Perintah ini hanya dapat digunakan di grup!',
     private: 'Pakai Di Chat Pribadi Bang',
@@ -587,7 +587,7 @@ global.dfail = (type, m, conn) => {
     botAdmin: 'Jadikan Bot sebagai admin untuk menggunakan perintah ini\n\nDenger ya dekkk!!!\nApakah orang yang tidak menjadi admin bisa menambahkan member???!!!!!',
     /*unreg: `*── 「 NOT REGISTERED 」 ──*
 
-Halo @${m.sender.split`@`[0]} !
+Halo Kak @${m.sender.split`@`[0]} !
 
 Yuk Daftar Dulu Karena Anda Belum Terdaftar Dalam Database Bot
 
@@ -611,7 +611,7 @@ Yuk Daftar Dulu Karena Anda Belum Terdaftar Dalam Database Bot
 
 Halo kak ${namae} !
 
-Yuk Daftar Dulu Karena Anda Belum Terdaftar Dalam Database Haori 🗂️
+Yuk Daftar Dulu Karena Anda Belum Terdaftar Dalam Database Fachribotz 🗂️
 
 📮 Silahkan Klik tombol dibawah, dan pilih umur anda!`
 
@@ -639,7 +639,7 @@ Yuk Daftar Dulu Karena Anda Belum Terdaftar Dalam Database Haori 🗂️
 
                                          "title": "📊 › 𐐪- Status -𐑂",
 
-                                         "description": "Status Haoribotz",
+                                         "description": "Status Fachribotz",
 
                                          "rowId": ".mystat"
 
@@ -687,133 +687,133 @@ Yuk Daftar Dulu Karena Anda Belum Terdaftar Dalam Database Haori 🗂️
 
                                          "title": "💌 › 𐐪- Group Bot -𐑂",
 
-                                         "description": "Join Ke Grup Official Haoribotz",
+                                         "description": "Join Ke Grup Official Fachribotz",
 
                                          "rowId": ".gcbot"
 
                        }],
 
-                    "title": "▮𝗗𝗮𝗳𝘁𝗮𝗿 」"
+                    "title": "𝗗𝗮𝗳𝘁𝗮𝗿 」"
 
                 }, {
 
                   "rows": [{                               
 
                                          "title": '27 Tahun',
-                                         "description": "Haoribotz Is The Best ❤️",
+                                         "description": "Fachribotz Is The Best ❤️",
                                          "rowId": '.daftar ' + namae + '.27'
 
                                     }, {
 
                                          "title": '26 Tahun',
-                                         "description": "Haoribotz Is The Best ❤️",
+                                         "description": "Fachribotz Is The Best ❤️",
                                          "rowId": '.daftar ' + namae + '.26'
 
                                     }, {
 
                                     	"title": '25 Tahun',
-                                         "description": "Haoribotz Is The Best ❤️",
+                                         "description": "Fachribotz Is The Best ❤️",
                                          "rowId": '.daftar ' + namae + '.25'
 
                                     }, {
 
                                     	"title": '24 Tahun',
-                                         "description": "Haoribotz Is The Best ❤️",
+                                         "description": "Fachribotz Is The Best ❤️",
                                          "rowId": '.daftar ' + namae + '.24'
 
                                     }, {
 
                                     	"title": '23 Tahun',
-                                         "description": "Haoribotz Is The Best ❤️",
+                                         "description": "Fachribotz Is The Best ❤️",
                                          "rowId": '.daftar ' + namae + '.23'
 
                                     }, {
 
                                     	"title": '22 Tahun',
-                                         "description": "Haoribotz Is The Best ❤️",
+                                         "description": "Fachribotz Is The Best ❤️",
                                          "rowId": '.daftar ' + namae + '.22'
 
                                     }, {
 
                                     	"title": '21 Tahun',
-                                         "description": "Haoribotz Is The Best ❤️",
+                                         "description": "Fachribotz Is The Best ❤️",
                                          "rowId": '.daftar ' + namae + '.21'
 
                                     }, {
 
                                     	"title": '20 Tahun',
-                                         "description": "Haoribotz Is The Best ❤️",
+                                         "description": "Fachribotz Is The Best ❤️",
                                          "rowId": '.daftar ' + namae + '.20'
 
                                     }, {
 
                                     	"title": '19 Tahun',
-                                         "description": "Haoribotz Is The Best ❤️",
+                                         "description": "Fachribotz Is The Best ❤️",
                                          "rowId": '.daftar ' + namae + '.19'
 
                                     }, {
 
                                     	"title": '18 Tahun',
-                                         "description": "Haoribotz Is The Best ❤️",
+                                         "description": "Fachribotz Is The Best ❤️",
                                          "rowId": '.daftar ' + namae + '.18'
 
                                     }, {
 
                                     	"title": '17 Tahun',
-                                         "description": "Haoribotz Is The Best ❤️",
+                                         "description": "Fachribotz Is The Best ❤️",
                                          "rowId": '.daftar ' + namae + '.17'
 
                                     }, {
 
                                     	"title": '16 Tahun',
-                                         "description": "Haoribotz Is The Best ❤️",
+                                         "description": "Fachribotz Is The Best ❤️",
                                          "rowId": '.daftar ' + namae + '.16'
 
                                     }, {
 
                                     	"title": '15 Tahun',
-                                         "description": "Haoribotz Is The Best ❤️",
+                                         "description": "Fachribotz Is The Best ❤️",
                                          "rowId": '.daftar ' + namae + '.15'
 
                                     }, {
 
                                     	"title": '14 Tahun',
-                                         "description": "Haoribotz Is The Best ❤️",
+                                         "description": "Fachribotz Is The Best ❤️",
                                          "rowId": '.daftar ' + namae + '.14'
 
                                     }, {
 
                                     	"title": '13 Tahun',
-                                         "description": "Haoribotz Is The Best ❤️",
+                                         "description": "Fachribotz Is The Best ❤️",
                                          "rowId": '.daftar ' + namae + '.13'
 
                                     }, {
 
                                     	"title": '12 Tahun',
-                                         "description": "Haoribotz Is The Best ❤️",
+                                         "description": "Fachribotz Is The Best ❤️",
                                          "rowId": '.daftar ' + namae + '.12'
 
                                     }, {
 
                                     	"title": '11 Tahun',
-                                         "description": "Haoribotz Is The Best ❤️",
+                                         "description": "Fachribotz Is The Best ❤️",
                                          "rowId": '.daftar ' + namae + '.11'
 
                                     }, {
 
                                     	"title": '10 Tahun',
-                                         "description": "Haoribotz Is The Best ❤️",
+                                         "description": "Fachribotz Is The Best ❤️",
                                          "rowId": '.daftar ' + namae + '.10'
 
                                          }, {
 
                                     	"title": '9 Tahun',
-                                         "description": "Haoribotz Is The Best ❤️",
+                                         "description": "Fachribotz Is The Best ❤️",
                                          "rowId": '.daftar ' + namae + '.9'
 
                        }],
 
-                                "title": "▮𝗖𝗮𝘁𝗲𝗴𝗼𝗿𝘆 」"
+                                "title": "𝗖𝗮𝘁𝗲𝗴𝗼𝗿𝘆 」"
 
                                 }, {
 
@@ -829,7 +829,7 @@ Yuk Daftar Dulu Karena Anda Belum Terdaftar Dalam Database Haori 🗂️
 
                                 "title": "🎖️ ∫  » Thanks To «",
 
-                                "description": "Terima kasih banyak untuk user yang telah berpartisipasi dalam haoribotz",
+                                "description": "Terima kasih banyak untuk user yang telah berpartisipasi dalam FachriBotz",
 
                                 "rowId": ".? thnks"
 
