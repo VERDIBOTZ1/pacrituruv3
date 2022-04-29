@@ -85,7 +85,7 @@ global.packname = 'Fachri - Botz' // ganti aja
 global.author = '© 𝐅𝐀𝐂𝐇𝐑𝐈' // ganti aja
 
 //yyy
-bc = 'Ħασяιвσтʓ' //King Of Bear Broadcast
+bc = 'fachri-вσтzʓ' //King Of Bear Broadcast
 footer = '\nꜰᴀᴄʜʀɪʙᴏᴛᴢ 🌟'
 namabot = 'ꜰᴀᴄʜʀɪʙᴏᴛᴢ ✨'
 namalu = '𝐅𝐀𝐂𝐇𝐑𝐈'
