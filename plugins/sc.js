@@ -11,8 +11,8 @@ const ftrol = {
     itemCount : 2022,
     status: 1,
     surface : 1,
-    message: 'Script Haoribotz By Zivfurr 🎨', 
-    orderTitle: `▮Menu ▸`,
+    message: 'Script FachriBotz By Fachri 🎨', 
+    orderTitle: `Menu ▸`,
     thumbnail: await (await fetch(fla + 'Script')).buffer(), //Gambarnye
     sellerJid: '0@s.whatsapp.net' 
     }
@@ -20,7 +20,10 @@ const ftrol = {
     }
 let pp = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text=Source+code'
 let info = `◪ 📮 *SCRIPT BOT*
-│ *Script Haoribotz :* 
+│ *Script Recode :* 
+│ ╰ https://github.com/
+│ *Base :* 
+│ *Script Ori :* 
 │ ╰ https://github.com/Colindonesia/HaoriBotz
 │ *Base :* 
 │ ╰ https://github.com/bochilgaming/games-wabot
@@ -30,7 +33,7 @@ let info = `◪ 📮 *SCRIPT BOT*
 • Jangan lupa minta izin owner sebelum menggunakan scriptnya kak!
 • Jangan Lupa kasih star & kasih credit
 `.trim()
-await conn.send2Button(m.chat, info, `🎮 Haoribotz`, 'Ok Haori', 'ok', '💌 OWNER', '.owner', ftrol)
+await conn.send2Button(m.chat, info, `🎮 Fachribotz`, 'Ok Fachri', 'ok', '💌 OWNER', '.owner', ftrol)
 }
 handler.help = ['sc']
 handler.tags = ['info']
