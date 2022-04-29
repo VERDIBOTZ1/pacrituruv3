@@ -13,7 +13,7 @@ BIG THANKS TO
 •Rteam1
 •Beniismael
 •Raditya 
-•AlyaaXzy (gua)
+•AlyaaXzy 
 •Furqan
 •Elyas
 •Rasel
@@ -23,7 +23,8 @@ BIG THANKS TO
 •Baka Botz
 •ZeeoneOfc
 •Zeks
-•Rendycraft  
+•Rendycraft
+•Fachri ( Gua )
 •Nadin
 •Aca Mirabel
 •Penyedia Layanan API
