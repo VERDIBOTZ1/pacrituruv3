@@ -23,7 +23,7 @@ var seconds = Math.floor(seconds % 60);
 return `${pad(hours)}Jam ${pad(minutes)}Menit ${pad(seconds)}Detik`
 }
 runtime = process.uptime()
-					teks = `𝗛𝗮𝗼𝗿𝗶𝗯𝗼𝘁𝘇 𝗜𝘀 𝗧𝗵𝗲 𝗕𝗲𝘀𝘁`// \n\n${kyun(runtime)}`
+					teks = `Created By Fachri`// \n\n${kyun(runtime)}`
 					run = `⏰ ${kyun(runtime)}`
 					var itsme = `0@s.whatsapp.net`
 					var split = `teks`
@@ -50,13 +50,13 @@ function ucapan() {
         res = "Selamat pagi"
     }
     if (time > 10) {
-        res = "Selamat siang🌞"
+        res = "Selamat siang kak🌞"
     }
     if (time >= 15) {
-        res = "Selamat sore🌝"
+        res = "Selamat sore kak🌝"
     }
     if (time >= 18) {
-        res = "Selamat malam🌚"
+        res = "Selamat malam kak🌚"
     }
     return res
 }
