@@ -43,7 +43,7 @@ global.DATABASE = global.db // Backwards Compatibility
 
 global.conn = new WAConnection()
 conn.version =[2,2143,3]
-conn.browserDescription =[' Haoribotz By Zivfurr :3 ', 'Opera', '3.0']
+conn.browserDescription =[' FachriBotz By Fachri >< ', 'Opera', '3.0']
 let authFile = `${opts._[0] || 'Haoribotz'}.json`
 if (fs.existsSync(authFile)) conn.loadAuthInfo(authFile)
 if (opts['trace']) conn.logger.level = 'trace'
