@@ -11,7 +11,7 @@
 
 ​ 
   
-`Information  `</p>  
+`## Information  `</p>  
  ​</p> `bahasa Indonesia  `
  ​</p> FachriBotz adalah bot yang menggunakan script dari Haori dan di recode oleh Fachri 
 </p>  Jika kamu menemukan semacam bug/error, harap untuk dimaklumi sementara.  
