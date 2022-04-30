@@ -82,10 +82,10 @@ namakontak2 = ''
 
 // Sticker WM
 global.packname = 'Fachri - Botz' // ganti aja
-global.author = '© 𝐅𝐀𝐂𝐇𝐑𝐈' // ganti aja
+global.author = '© 𝐅𝐀𝐂𝐇𝐑𝐈🐾' // ganti aja
 
 //yyy
-bc = 'fachri-вσтzʓ' //King Of Bear Broadcast
+bc = 'fachri-вσтz🐾' //King Of Bear Broadcast
 footer = '\nꜰᴀᴄʜʀɪʙᴏᴛᴢ 🌟'
 namabot = 'ꜰᴀᴄʜʀɪʙᴏᴛᴢ ✨'
 namalu = '𝐅𝐀𝐂𝐇𝐑𝐈'
