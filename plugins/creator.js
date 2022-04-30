@@ -8,8 +8,8 @@ remoteJid: 'status@broadcast'
 },
 message: {
 locationMessage: {
-name: 'Ini Kak Owner Fachri OωO',
-jpegThumbnail: fs.readFileSync('./src/haori.jpg')
+name: 'Ini Kak Owner FachriBotz OωO',
+jpegThumbnail: fs.readFileSync('./src/mikey.jpg')
   }
  }
 }
@@ -31,7 +31,7 @@ let list = []
 const buttonsMessage = {
     contentText: `
 Itu Owner Ku Kak >ω<
-Jangan Di Apa Apain Kak Owner Ku.
+*Jangan Di Apa Apain Kak Owner Ku.*
 `.trim(),    footerText: ``,
     buttons: buttons,
   headerType: 'EMPTY'
