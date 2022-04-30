@@ -28,36 +28,33 @@ const defaultMenu = {
 
   before: `
 
-〓〓〓〓〓 *U S E R S*
-➺ *Name:* %name
-➺ *Tags:* %tag
-➺ *Premium:* %prems
-➺ *Age:* %age
-➺ *Limit:* %limit
-➺ *Money:* %money
-➺ *Role:* %role
-➺ *Level:* %level [%xp4levelup]
-➺ *Xp:* %exp / %maxexp
-➺ *Total Xp:* %totalexp
+〓〓〓〓〓 *INFO USERS*
+➵͜͡✪ *Name:* %name
+➵͜͡✪ *Tags:* %tag
+➵͜͡✪ *Premium:* %prems
+➵͜͡✪ *Age:* %age
+➵͜͡✪ *Limit:* %limit
+➵͜͡✪ *Money:* %money
+➵͜͡✪ *Role:* %role
+➵͜͡✪ *Level:* %level [%xp4levelup]
+➵͜͡✪ *Xp:* %exp / %maxexp
+➵͜͡✪ *Total Xp:* %totalexp
 
-〓〓〓〓〓  *T O D A Y* 
-➺ ${ucapan()}
-➺ *Tanggal:* %week %weton, %date
-➺ *Tanggal Islam:* %dateIslamic
-➺ *Waktu:* %time
+〓〓〓〓〓  *INFO TODAY* 
+➵͜͡✪ ${ucapan()}
+➵͜͡✪ *Tanggal:* %week %weton, %date
+➵͜͡✪ *Tanggal Islam:* %dateIslamic
+➵͜͡✪ *Waktu:* %time
 
-〓〓〓〓〓 *I N F O*
-➺ *Nama Bot:* %me
-➺ *Mode:* %mode
-➺ *Prefix:* [ %_p ]
-➺ *Platform:* %platform
-➺ *Merk Hp:* %merk
-➺ *Uptime:* %muptime
-➺ *Database:* %rtotalreg dari %totalreg
-
-
-❊╌──┈⊰᯽ *OWNER* ⊰᯽⊱┈──╌❊
-%ow
+〓〓〓〓〓 *INFO BOT*
+➵͜͡✪ *Nama Bot:* %me
+➵͜͡✪ *Mode:* %mode
+➵͜͡✪ *Owner:* %ow
+➵͜͡✪ *Prefix:* [ %_p ]
+➵͜͡✪ *Platform:* %platform
+➵͜͡✪ *Merk Hp:* %merk
+➵͜͡✪ *Uptime:* %muptime
+➵͜͡✪ *Database:* %rtotalreg dari %totalreg
 
 ❊╌──┈⊰᯽ *INFO COMMAND* ⊰᯽⊱┈──╌❊
 
@@ -712,32 +709,32 @@ const ultah = new Date('oktober 5, 2023 23:59:59')
       
 
     let txtmenu = `╭──═ ⳹°❀⊱ *USER* ⊱❀° ═──···ɞ´-
-│➺ *Name:* ${name}
-│➺ *Tag:* ${tag}
-│➺ *Bio:* ${bioo ? bioo : ''}
-│➺ *Status:* ${premium ? 'Premium' : 'Free'} User
-│➺ *Limit:* ${global.db.data.users[m.sender].limit}
+│➵͜͡✪ *Name:* ${name}
+│➵͜͡✪ *Tag:* ${tag}
+│➵͜͡✪ *Bio:* ${bioo ? bioo : ''}
+│➵͜͡✪ *Status:* ${premium ? 'Premium' : 'Free'} User
+│➵͜͡✪ *Limit:* ${global.db.data.users[m.sender].limit}
 ┠──═ ⳹°❀⊱  *INFO* ⊱❀° ═─···ɞ´-
-│➺ *Runtime:* ${uptime}
-│➺ *Baterai:* ${conn.battery != undefined ? `${conn.battery.value}% ${conn.battery.live ? '🔌 pengisian' : ''}` : 'tidak diketahui'}
-│➺ *Prefix :* [ ${_p} ]
-│➺ *Total User:* ${Object.keys(global.db.data.users).length}
-│➺ *Jadibot:* ${totaljadibot.length}
-│➺ *Blocked:* ${conn.blocklist.length}
-│➺ *Chat Banned:* ${Object.entries(global.db.data.chats).filter(chat => chat[1].isBanned).length}
-│➺ *User Banned:* ${Object.entries(global.db.data.users).filter(user => user[1].banned).length}
+│➵͜͡✪ *Runtime:* ${uptime}
+│➵͜͡✪ *Baterai:* ${conn.battery != undefined ? `${conn.battery.value}% ${conn.battery.live ? '🔌 pengisian' : ''}` : 'tidak diketahui'}
+│➵͜͡✪ *Prefix :* [ ${_p} ]
+│➵͜͡✪ *Total User:* ${Object.keys(global.db.data.users).length}
+│➵͜͡✪ *Jadibot:* ${totaljadibot.length}
+│➵͜͡✪ *Blocked:* ${conn.blocklist.length}
+│➵͜͡✪ *Chat Banned:* ${Object.entries(global.db.data.chats).filter(chat => chat[1].isBanned).length}
+│➵͜͡✪ *User Banned:* ${Object.entries(global.db.data.users).filter(user => user[1].banned).length}
 ┠═ ⳹°❀⊱ *TAHUN BARU*  ⊱❀° ═─ɞ´-
-│➺ ${jhari} Hari ${jjam} Jam ${mmmenit} Menit ${ddetik} Detik
+│➵͜͡✪ ${jhari} Hari ${jjam} Jam ${mmmenit} Menit ${ddetik} Detik
 │
 ┠═ ⳹°❀⊱ *RAMADHAN* ⊱❀° ═─ɞ´-
-│➺ ${harii} Hari ${jamm} Jam ${menitt} Menit ${detikk} Detik
+│➵͜͡✪ ${harii} Hari ${jamm} Jam ${menitt} Menit ${detikk} Detik
 │
 ┠═ °❀⊱ *ULTAH FACHRI* ⊱❀° ═─ɞ´
-│➺ ${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik
+│➵͜͡✪ ${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik
 ┴
 ✧
 ┬ 📮 *Note* :
-│Beri Jeda Kak biar ga delay ^ω^
+│ Beri Jeda Kak biar ga delay ^ω^
 ╰━━━━━━━━━━━━━┈─ɞ
    ▌│█║▌║▌║║▌║▌║█│▌
 
@@ -821,7 +818,7 @@ const ultah = new Date('oktober 5, 2023 23:59:59')
 
                        }],
 
-                    "title": "𝗦𝘁𝗮𝘁𝘂𝘀 」"
+                    "title": "「 Tentang Bot Dan Lainya 」"
 
                 }, {
 
@@ -1083,7 +1080,7 @@ const ultah = new Date('oktober 5, 2023 23:59:59')
 
                 }],
 
-                                "title": "𝗖𝗮𝘁𝗲𝗴𝗼𝗿𝘆 」"
+                                "title": "「 Menu FachriBotz 」"
 
                                 }, {
 
@@ -1145,7 +1142,7 @@ const ultah = new Date('oktober 5, 2023 23:59:59')
 
                                 }],
 
-                                "title": "𝗜𝗻𝗳𝗼 」"
+                                "title": "「 Penutup 」"
 
                             }
 
@@ -1527,7 +1524,7 @@ text,
 
         "description": `\n${wm}\n` + text,
 
-        "retailerId": `${week}, ${date}  |  By Fachri`,
+        "retailerId": `${week}, ${date}  |  Created By Fachri`,
 
         "url": '\n',
 
@@ -1569,9 +1566,9 @@ text,
 
             title: global.wm,
 
-            body: `${pickRandom(['Tetap Semangat Puasa Nya ❤️', 'Udah Mandi Belum Kak? 😌', 'Semangat Ya Kak! 😆', 'Jangan Begadang Mulu Ya! 😅', 'Jangan Spam Ya Kak! 😉', 'Jangan Lupa Donasi Yak Kak! 😖', 'Jaga Kesehatan Yaw Kak! 🥰', 'Kalo Bosan Sama Haori Aja Kak 😘!', 'Jangan lupa istirahat yak! >.<', 'I Love you kak >.< 💗✨', 'Pr nya udh belum kak?', 'Jangan kebanyakan main hp yk! nanti sakit :‹'])}`,
+            body: `${pickRandom(['Tetap Semangat Puasa Nya ❤️', 'Udah Mandi Belum Kak? 😌', 'Semangat Ya Kak! 😆', 'Jangan Begadang Mulu Ya! 😅', 'Jangan Spam Ya Kak! 😉', 'Jangan Lupa Donasi Yak Kak! 😖', 'Jaga Kesehatan Yaw Kak! 🥰', 'Kalo Bosan Sama Fachri Aja Kak 😘!', 'Jangan lupa istirahat yak! >.<', 'I Love you kak >.< 💗✨', 'Pr nya udh belum kak?', 'Jangan kebanyakan main hp yk! nanti sakit :‹'])}`,
 
-            description: `${pickRandom(['Tetap Semangat Puasa Nya ❤️', 'Udah Mandi Belum Kak? 😌', 'Semangat Ya Kak! 😆', 'Jangan Begadang Mulu Ya! 😅', 'Jangan Spam Ya Kak! 😉', 'Jangan Lupa Donasi Yak Kak! 😖'', 'Jaga Kesehatan Yaw Kak! 🥰', 'Kalo Bosan Sama Haori Aja Kak 😘!', 'Jangan lupa istirahat yak! >.<', 'I Love you kak >.< 💗✨', 'Pr nya udh belum kak?', 'Jangan kebanyakan main hp yk! nanti sakit :‹'])}`,
+            description: `${pickRandom(['Tetap Semangat Puasa Nya ❤️', 'Udah Mandi Belum Kak? 😌', 'Semangat Ya Kak! 😆', 'Jangan Begadang Mulu Ya! 😅', 'Jangan Spam Ya Kak! 😉', 'Jangan Lupa Donasi Yak Kak! 😖'', 'Jaga Kesehatan Yaw Kak! 🥰', 'Kalo Bosan Sama Fachri Aja Kak 😘!', 'Jangan lupa istirahat yak! >.<', 'I Love you kak >.< 💗✨', 'Pr nya udh belum kak?', 'Jangan kebanyakan main hp yk! nanti sakit :‹'])}`,
 
             mediaType: 2,
 
@@ -1745,7 +1742,7 @@ function ucapan() {
 
   if (time >= 4) {
 
-    res = "Selamat pagi Kak 🌄"
+    res = "Selamat pagi Kak🌄"
 
   }
 
@@ -1757,13 +1754,13 @@ function ucapan() {
 
   if (time >= 15) {
 
-    res = "Selamat sore Kak 🌇"
+    res = "Selamat sore Kak🌇"
 
   }
 
   if (time >= 18) {
 
-    res = "Selamat malam Kak 🌃"
+    res = "Selamat malam Kak🌃"
 
   }
 
