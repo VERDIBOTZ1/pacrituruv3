@@ -30,12 +30,12 @@ $ npm i pm2 && pm2 start (sesuaikan sama sc kalian)
 
 💻 Info : Link Termux Di Klik Disini  Hapus Termux Lama Anda Ganti Sama Yang Saya Kasih`.trim()
   const button = {
-        buttonText: 'Totor By Haoribotz',
+        buttonText: 'Tutor By FachriBotz',
         description: kontol,
         sections:  [{title: "Silahkan di pilih gausah pilih yang gaada", rows: [
         {title: 'Termux', description: "Link Aplikasi Termux", rowId:".termux"},
         {title: 'Script', description: "2022 Masih Cari Sc Awokawok", rowId:".sc"},        
-        {title: 'Owner', description: "Creator Haoribotz >w<", rowId:".nowner"},
+        {title: 'Owner', description: "Creator FachriBotz >w<", rowId:".nowner"},
        ] }],
         listType: 1
        }
