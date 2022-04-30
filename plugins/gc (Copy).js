@@ -32,10 +32,10 @@ $ npm i pm2 && pm2 start (sesuaikan sama sc kalian)
   const button = {
         buttonText: 'Tutor By FachriBotz',
         description: kontol,
-        sections:  [{title: "Silahkan di pilih gausah pilih yang gaada", rows: [
-        {title: '💌 › Group FachriBotz', description: "Group Utama Haoribotz", rowId:".gcbot1"},
-        {title: '✉️ › Gruop Kimak All Bot', description: "Group Kedua", rowId:".gcbot2"},
-        {title: '✉️ › Group OneBot', description: "Gruop Ketiga", rowId:".gcbot3"},
+        sections:  [{title: "Silahkan di pilih gausah pilih yang gaada🐾", rows: [
+        {title: '💌 › Group FachriBotz', description: "Group Utama FachriBotz", rowId:".gcbot1"},
+        {title: '✉️ › Gruop FachriBotz#2', description: "Group Kedua", rowId:".gcbot2"},
+        {title: '✉️ › Group FachriBotz#3', description: "Gruop Ketiga", rowId:".gcbot3"},
         {title: '🎐 › Owner', description: "Creator Fachri >ω<", rowId:".nowner"},
        ] }],
         listType: 1
