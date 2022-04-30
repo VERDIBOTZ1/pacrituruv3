@@ -502,7 +502,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
 
     const detikk = Math.floor( lebih % (1000 * 60) / 1000)
 
-const ultah = new Date('oktober 5, 2023 23:59:59')
+const ultah = new Date('oktober 17, 2023 23:59:59')
 
     const sekarat = new Date().getTime() 
 
@@ -833,7 +833,7 @@ const ultah = new Date('oktober 5, 2023 23:59:59')
 
                 }, {
 
-                  "title": "🎮 〉ɞ 『 Game 』",
+                  "title": "🎮 〉ɞ 『 Menu Game 』",
 
                   "description": "Gamenya seru seru kak...",
 
@@ -841,7 +841,7 @@ const ultah = new Date('oktober 5, 2023 23:59:59')
 
                 }, {
 
-                  "title": "🌱 〉ɞ 『 Rpg 』",
+                  "title": "🌱 〉ɞ 『 Menu Rpg 』",
 
                   "description": "Game Epic Rpg ! ",
 
@@ -849,7 +849,7 @@ const ultah = new Date('oktober 5, 2023 23:59:59')
 
                 }, {
 
-                  "title": "📈 〉ɞ 『 Exp & Limit 』",
+                  "title": "📈 〉ɞ 『 Menu Exp & Limit 』",
 
                   "description": "Ayo tingkatkan level mu..!",
 
@@ -857,7 +857,7 @@ const ultah = new Date('oktober 5, 2023 23:59:59')
 
                 }, {
 
-                  "title": "🧩 〉ɞ 『 Fun 』",
+                  "title": "🧩 〉ɞ 『 Menu Fun 』",
 
                   "description": "Sangat Family Friendly...",
 
@@ -865,7 +865,7 @@ const ultah = new Date('oktober 5, 2023 23:59:59')
 
                 }, {
 
-                  "title": "🎁 〉ɞ 『 Gift 』",
+                  "title": "🎁 〉ɞ 『 Menu Gift 』",
 
                   "description": "Surprise!",
 
@@ -873,7 +873,7 @@ const ultah = new Date('oktober 5, 2023 23:59:59')
 
                 }, {
 
-                  "title": "🔞 〉ɞ 『 Nsfw 』",
+                  "title": "🔞 〉ɞ 『 Menu Nsfw 』",
 
                   "description": "Adick adick jangan liat ya...",
 
@@ -881,7 +881,7 @@ const ultah = new Date('oktober 5, 2023 23:59:59')
 
                 }, {
 
-                  "title": "⛩️ 〉ɞ 『 Anime 』",
+                  "title": "⛩️ 〉ɞ 『 Menu Anime 』",
 
                   "description": "Bang? Anjir wibu...",
 
@@ -889,7 +889,7 @@ const ultah = new Date('oktober 5, 2023 23:59:59')
 
                 }, {
 
-                  "title": "📰 〉ɞ 『 News』 ",
+                  "title": "📰 〉ɞ 『 Menu News 』 ",
 
                   "description": "Berita Doang kok kak...",
 
@@ -897,7 +897,7 @@ const ultah = new Date('oktober 5, 2023 23:59:59')
 
                 },  {
 
-                  "title": "☪️ 〉ɞ 『 Islamic 』",
+                  "title": "☪️ 〉ɞ 『 Menu Islamic 』",
 
                   "description": "Tobat Yuk Kak...",
 
@@ -905,7 +905,7 @@ const ultah = new Date('oktober 5, 2023 23:59:59')
 
                 }, {
 
-                  "title": "📚 〉ɞ 『 Edukasi 』",
+                  "title": "📚 〉ɞ 『 Menu Edukasi 』",
 
                   "description": "Belajar kak biar pinter",
 
@@ -913,7 +913,7 @@ const ultah = new Date('oktober 5, 2023 23:59:59')
 
                 }, {
 
-                  "title": "🖼️ 〉ɞ 『 Image 』",
+                  "title": "🖼️ 〉ɞ 『 Menu Image 』",
 
                   "description": "Radom Image & something...",
 
@@ -921,7 +921,7 @@ const ultah = new Date('oktober 5, 2023 23:59:59')
 
                 },  {
 
-                  "title": "🎫 〉ɞ 『 Sticker 』",
+                  "title": "🎫 〉ɞ 『 Menu Sticker 』",
 
                   "description": "Membuat sticker yang unik!",
 
@@ -929,7 +929,7 @@ const ultah = new Date('oktober 5, 2023 23:59:59')
 
                 }, {
 
-                  "title": "🐚 〉ɞ 『 Kerang 』",
+                  "title": "🐚 〉ɞ 『 Menu Kerang 』",
 
                   "description": "Menurut Kerang ajaib...!",
 
@@ -937,7 +937,7 @@ const ultah = new Date('oktober 5, 2023 23:59:59')
 
                 }, {
 
-                  "title": "📑 〉ɞ 『 Quotes 』",
+                  "title": "📑 〉ɞ 『 Menu Quotes 』",
 
                   "description": "Random Teks...",
 
@@ -945,7 +945,7 @@ const ultah = new Date('oktober 5, 2023 23:59:59')
 
                 }, {
 
-                  "title": "🏛️ 〉ɞ 『  Group Settings 』",
+                  "title": "🏛️ 〉ɞ 『 Menu Group Settings 』",
 
                   "description": "Admin Group Only!",
 
@@ -953,7 +953,7 @@ const ultah = new Date('oktober 5, 2023 23:59:59')
 
                 }, {
 
-                  "title": "👥 〉ɞ 『 Group 』",
+                  "title": "👥 〉ɞ 『 Menu Group 』",
 
                   "description": "Group Only!",
 
@@ -961,7 +961,7 @@ const ultah = new Date('oktober 5, 2023 23:59:59')
 
                 }, {
 
-                  "title": "🌟 〉ɞ 『 Premium 』",
+                  "title": "🌟 〉ɞ 『 Menu Premium 』",
 
                   "description": "Premium Users Only!",
 
@@ -969,7 +969,7 @@ const ultah = new Date('oktober 5, 2023 23:59:59')
 
                 }, {
 
-                  "title": "💻 〉ɞ 『 Internet 』",
+                  "title": "💻 〉ɞ 『 MenuInternet 』",
 
                   "description": "Cari Sesuatu yang menarik!",
 
@@ -977,7 +977,7 @@ const ultah = new Date('oktober 5, 2023 23:59:59')
 
                 }, {
 
-                  "title": "🎭 〉ɞ 『 Anonymous 』",
+                  "title": "🎭 〉ɞ 『 Menu Anonymous 』",
 
                   "description": "Berbicara dengan orang tidak dikenal...",
 
@@ -985,7 +985,7 @@ const ultah = new Date('oktober 5, 2023 23:59:59')
 
                 }, {
 
-                  "title": "🖊️ 〉ɞ 『 Editz Menu 』",
+                  "title": "🖊️ 〉ɞ 『 Menu Editz Menu 』",
 
                   "description": "Menulis dan Membuat Logo, dll...",
 
@@ -993,7 +993,7 @@ const ultah = new Date('oktober 5, 2023 23:59:59')
 
                 }, {
 
-                  "title": "📥 〉ɞ 『 Downloader 』",
+                  "title": "📥 〉ɞ 『 Menu Downloader 』",
 
                   "description": "Download Sesuatu diBot!",
 
@@ -1001,7 +1001,7 @@ const ultah = new Date('oktober 5, 2023 23:59:59')
 
                 }, {
 
-                  "title": "🧰 〉ɞ 『 Tools 』",
+                  "title": "🧰 〉ɞ 『 Menu Tools 』",
 
                   "description": "Mungkin ini bisa membantu mu...",
 
@@ -1009,7 +1009,7 @@ const ultah = new Date('oktober 5, 2023 23:59:59')
 
                 }, {
 
-                  "title": "📂 〉ɞ 『 Database 』",
+                  "title": "📂 〉ɞ 『 Menu Database 』",
 
                   "description": "Menyimpan sesuatu DiBot",
 
@@ -1017,7 +1017,7 @@ const ultah = new Date('oktober 5, 2023 23:59:59')
 
                 }, {
 
-                  "title": "🗳️ 〉ɞ 『 Vote & Absen 』",
+                  "title": "🗳️ 〉ɞ 『 Menu Vote & Absen 』",
 
                   "description": "Group Only!",
 
@@ -1025,7 +1025,7 @@ const ultah = new Date('oktober 5, 2023 23:59:59')
 
                 }, {
 
-                  "title": "🎙️ 〉ɞ 『 Voice 』",
+                  "title": "🎙️ 〉ɞ 『 Menu Voice 』",
 
                   "description": "Voice Changer...",
 
@@ -1033,7 +1033,7 @@ const ultah = new Date('oktober 5, 2023 23:59:59')
 
                 }, {
 
-                  "title": "🌐 〉ɞ 『 Multi-Session 』",
+                  "title": "🌐 〉ɞ 『 Menu Multi-Session 』",
 
                   "description": "Salah Satunya Jadibot Sementara",
 
@@ -1041,7 +1041,7 @@ const ultah = new Date('oktober 5, 2023 23:59:59')
 
                 }, {
 
-                  "title": "ℹ️ 〉ɞ 『 Info 』",
+                  "title": "ℹ️ 〉ɞ 『 Menu Info 』",
 
                   "description": "Fitur fitur info...",
 
@@ -1049,7 +1049,7 @@ const ultah = new Date('oktober 5, 2023 23:59:59')
 
                 }, {
 
-                  "title": "🎧 〉ɞ 『 Vn Imuet 』",
+                  "title": "🎧 〉ɞ 『 Menu Vn Imuet 』",
 
                   "description": "Mendengarkan Vn Yang Sangat Imuet",
 
@@ -1057,7 +1057,7 @@ const ultah = new Date('oktober 5, 2023 23:59:59')
 
                 }, {
 
-                  "title": "🎵 〉ɞ 『 Sound Music 』",
+                  "title": "🎵 〉ɞ 『 Menu Sound Music 』",
 
                   "description": "Dengar Music Singkat",
 
@@ -1073,7 +1073,7 @@ const ultah = new Date('oktober 5, 2023 23:59:59')
 
                 }, {
 
-                  "title": "👩🏻‍💻 〉ɞ 『 Owner 』",
+                  "title": "👩🏻‍💻 〉ɞ 『 Menu Owner 』",
 
                   "description": "Hanya Untuk Owner Fachri",
 
