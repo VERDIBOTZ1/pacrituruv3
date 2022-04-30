@@ -708,13 +708,13 @@ const ultah = new Date('oktober 5, 2023 23:59:59')
 
       
 
-    let txtmenu = `╭──═ ⳹°❀⊱ *USER* ⊱❀° ═──···ɞ´-
+    let txtmenu = `╭──═ ⳹°❀⊱ *INFO USER* ⊱❀° ═──···ɞ´-
 │➵͜͡✪ *Name:* ${name}
 │➵͜͡✪ *Tag:* ${tag}
 │➵͜͡✪ *Bio:* ${bioo ? bioo : ''}
 │➵͜͡✪ *Status:* ${premium ? 'Premium' : 'Free'} User
 │➵͜͡✪ *Limit:* ${global.db.data.users[m.sender].limit}
-┠──═ ⳹°❀⊱  *INFO* ⊱❀° ═─···ɞ´-
+┠──═ ⳹°❀⊱  *INFO BOT* ⊱❀° ═─···ɞ´-
 │➵͜͡✪ *Runtime:* ${uptime}
 │➵͜͡✪ *Baterai:* ${conn.battery != undefined ? `${conn.battery.value}% ${conn.battery.live ? '🔌 pengisian' : ''}` : 'tidak diketahui'}
 │➵͜͡✪ *Prefix :* [ ${_p} ]
@@ -736,6 +736,7 @@ const ultah = new Date('oktober 5, 2023 23:59:59')
 ┬ 📮 *Note* :
 │ Beri Jeda Kak biar ga delay ^ω^
 ╰━━━━━━━━━━━━━┈─ɞ
+
    ▌│█║▌║▌║║▌║▌║█│▌
 
      ❏ ${week} ${date}`
@@ -1136,13 +1137,13 @@ const ultah = new Date('oktober 5, 2023 23:59:59')
 
                                 "title": "🎖️ ∫  » Thanks To «",
 
-                                "description": "Terima kasih banyak untuk user yang telah berpartisipasi dalam haoribotz",
+                                "description": "Terima kasih banyak untuk user yang telah berpartisipasi dalam FachriBotz",
 
                                 "rowId": ".? thnks"
 
                                 }],
 
-                                "title": "「 Penutup 」"
+                                "title": "「 Kata Penutup 」"
 
                             }
 
@@ -1366,11 +1367,11 @@ const ultah = new Date('oktober 5, 2023 23:59:59')
 
 "buttons": [
 
-{buttonId: '.owner', buttonText: {displayText: '🍭 OWNER'}, type: 1},
+{buttonId: '.owner', buttonText: {displayText: 'OWNER🐾'}, type: 1},
 
-{buttonId: '.donasi', buttonText: {displayText: '🗳️ DONASI'}, type: 1},
+{buttonId: '.donasi', buttonText: {displayText: 'DONASI💰'}, type: 1},
 
-{buttonId: '.rules', buttonText: {displayText: '❗ RULES'}, type: 1}
+{buttonId: '.rules', buttonText: {displayText: 'RULES✨'}, type: 1}
 
 ],
 
@@ -1694,25 +1695,25 @@ function logopdf() {
 
   if (lgs >= 4) {
 
-    imp = 'https://telegra.ph/file/7bd906ce2693a57e6c8f2.jpg'
+    imp = 'https://i.ibb.co/y6TRVt4/virgam.png'
 
   }
 
   if (lgs > 10) {
 
-    imp = 'https://telegra.ph/file/7bd906ce2693a57e6c8f2.jpg'
+    imp = 'https://i.ibb.co/y6TRVt4/virgam.png'
 
   }
 
   if (lgs >= 15) {
 
-    imp = 'https://telegra.ph/file/7bd906ce2693a57e6c8f2.jpg'
+    imp = 'https://i.ibb.co/y6TRVt4/virgam.png'
 
   }
 
   if (lgs >= 18) {
 
-    imp = 'https://telegra.ph/file/7bd906ce2693a57e6c8f2.jpg'
+    imp = 'https://i.ibb.co/y6TRVt4/virgam.png'
 
   }
 
