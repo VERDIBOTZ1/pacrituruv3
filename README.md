@@ -13,14 +13,14 @@
   
 `Information  `</p>  
  ​</p> `bahasa Indonesia  `
- ​</p> Haoribotz adalah bot yang menggunakan script dari AlyaXyz dan di recode oleh Zivfurr 
+ ​</p> FachriBotz adalah bot yang menggunakan script dari Haori dan di recode oleh Fachri 
 </p>  Jika kamu menemukan semacam bug/error, harap untuk dimaklumi sementara.  
 
 
 </p> 
 
  `Language English ` </p> 
-Haoribotz is a bot that uses a script from AlyaXyz and is recoded by Zivfurr 
+Fachri is a bot that uses a script from Haori and is recoded by Fachri 
 </p>  ​If you find some kind of bug/error, please forgive me for a while  
    
    
@@ -34,8 +34,8 @@ Haoribotz is a bot that uses a script from AlyaXyz and is recoded by Zivfurr
  </p> 
  
  ​[![​BOT WHATSAPP​](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282181815945)  
- ​[![​ONWER​](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/628515866902)  
- ​[![​GROUP OFFICIAL​](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/ESeBcdKcHFm7BnyNiSZPvi)  
+ ​[![​ONWER​](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285713041886)  
+ ​[![​GROUP OFFICIAL​](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/)  
 
  
  ​FOR TERMUX/UBUNTU/SSH USER 
@@ -46,8 +46,8 @@ Haoribotz is a bot that uses a script from AlyaXyz and is recoded by Zivfurr
  ​apt install nodejs -y 
  ​apt install ffmpeg -y 
  ​apt install imagemagick -y 
- ​git clone https://github.com/Colindonesia/HaoriBotz
- ​cd​ Haoribotz
+ ​git clone https://github.com/Ipulpachri/fachribotzv3
+ ​cd​ fachribotzv3
  ​npm install 
  ​npm update 
  ​``` 
@@ -109,4 +109,4 @@ Heroku Buildpack
   
 
   
- ​ [![​Zivfurr](https://github.com/Colindonesia.png?size=100)](https://github.com/Colindonesia) </p>  `Creator`  </p>    [![​Yanzz](https://github.com/Yanzz-Bot.png?size=100)](https://github.com/Yanzz-Bot)</p>  `Partner`
+ ​ [![​Zivfurr](https://github.com/Colindonesia.png?size=100)](https://github.com/Colindonesia) </p>  `Creator`  </p>    [![​Yanzz](https://github.com/Yanzz-Bot.png?size=100)](https://github.com/Yanzz-Bot)</p>  `Partner` </p>  [![​Fachri](https://github.com/Ipulpachri.png?size=100)](https://github.com/Ipulpachri) </p>  `Recode Ulang`  </p>
