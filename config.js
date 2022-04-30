@@ -35,7 +35,7 @@ gc2 = ''
 gc3 = ''
 global.linkGC = ['https://chat.whatsapp.com/Fh0eaf7IuuG3i67wXRC1O8', ''] // ganti jadi group lu
 global.owner = ['6285713041886'] // Put your number here //owner eval
-global.kontak = ['6285713041886','6285713041886'] //Ketika ada yang ngetik #owner
+global.kontak = ['6285713041886','62896853821126'] //Ketika ada yang ngetik #owner
 global.mods = ['6285713041886'] // Want some help?
 global.prems = ['6285713041886'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
@@ -86,8 +86,8 @@ global.author = '© 𝐅𝐀𝐂𝐇𝐑𝐈🐾' // ganti aja
 
 //yyy
 bc = 'fachri-вσтz🐾' //King Of Bear Broadcast
-footer = '\nꜰᴀᴄʜʀɪʙᴏᴛᴢ 🌟'
-namabot = 'ꜰᴀᴄʜʀɪʙᴏᴛᴢ ✨'
+footer = '\nꜰᴀᴄʜʀɪʙᴏᴛᴢ 🐾'
+namabot = 'ꜰᴀᴄʜʀɪʙᴏᴛᴢ 🐾'
 namalu = '𝐅𝐀𝐂𝐇𝐑𝐈'
 global.botwm = `ꜰᴀᴄʜʀɪʙᴏᴛᴢ ✨`//UBAH JADI NAMAMU
 
