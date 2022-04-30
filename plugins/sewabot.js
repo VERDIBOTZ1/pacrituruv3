@@ -8,7 +8,7 @@ let handler = async(m, { conn }) => {
 Silahkan klik pada "List Harga" untuk melihat list.
 
 Pembayaran:
-Dana : 6285158866902
+Dana : 6285713041886
 `.trim()
     const button = {
         buttonText: 'List Harga',
