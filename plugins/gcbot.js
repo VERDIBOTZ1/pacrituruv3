@@ -7,7 +7,7 @@ https://chat.whatsapp.com/ESeBcdKcHFm7BnyNiSZPvi
 
 ✧─────···───────✧
 `.trim()
-conn.send2ButtonLoc(m.chat, await (await fetch(fla + 'Haori Groups')).buffer(), ext, '🎮 𝙷𝚊𝚘𝚛𝚒𝚋𝚘𝚝𝚣 𝙸𝚜 𝚃𝚑𝚎 𝙱𝚎𝚜𝚝', 'Siap Haori', 'Iya', 'Owner', '.owner', m)
+conn.send2ButtonLoc(m.chat, await (await fetch(fla + 'Fachri Groups')).buffer(), ext, '🎮 Created By Fachri', 'Siap Fachri', 'Iya', 'Owner', '.owner', m)
 
 }
 handler.help = ['gcbot1']
