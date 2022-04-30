@@ -1,10 +1,10 @@
 <p align="center">
-<img src="https://telegra.ph/file/b4237824e8fd66c4aeb84.png" alt="RadBot" width="200"/>
+<img src="https://telegra.ph/file/abff7903bd674a8f9d307.jpg" alt="FachriBotzv3" width="200"/>
 
 </p>
-<p align="center"> <a href="https://Lexxy24.github.io"> <img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Haori+botz;Recode+By+Zivfurr;Give+Star+And+Forks+This+Repo+:D;Follow+My+Github" alt="Lexxy Official" /> </a> </p>
+<p align="center"> <a href="https://Lexxy24.github.io"> <img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Fachri+botz;Recode+By+Fachri;Give+Star+And+Forks+This+Repo+:D;Follow+My+Github" alt="Fachri" /> </a> </p>
 <p align="center">
-<a href="#"><img title="Shiro-Botz" src="https://img.shields.io/badge/GANTI SESSIONNYA DULU SEBELUM PAKAI-red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Fachri-Botz" src="https://img.shields.io/badge/GANTI SESSIONNYA DULU SEBELUM PAKAI-red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 </p> 
