@@ -33,9 +33,9 @@ Fachri is a bot that uses a script from Haori and is recoded by Fachri
  
  </p> 
  
- ​[![​BOT WHATSAPP​](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282181815945)  
+ ​[![​BOT WHATSAPP​](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/628159917553)  
  ​[![​ONWER​](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285713041886)  
- ​[![​GROUP OFFICIAL​](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/)  
+ ​[![​GROUP OFFICIAL​](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/GimZmhA2XTQFfPXk4XMrv6)  
 
  
  ​FOR TERMUX/UBUNTU/SSH USER 
