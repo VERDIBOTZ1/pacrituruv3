@@ -1392,7 +1392,7 @@ const ultah = new Date('october 17, 2023 23:59:59')
 
             "mediaKey": "XWv4hcnpGY51qEVSO9+e+q6LYqPR3DbtT4iqS9yKhkI=",
 
-            "fileName": '✿.｡.:*FachriBotz*:.｡.✿',
+            "fileName": 'Create By Fachri',
 
             "fileEncSha256": "NI9ykWUcXKquea4BmH7GgzhMb3pAeqqwE+MTFbH/Wk8=",
 
@@ -1576,7 +1576,7 @@ text,
 
           thumbnail: logo,
 
-         mediaUrl: `https://youtu.be/c/SaefulFahri`
+         mediaUrl: `https://youtu.be/OiTiqN9h4Xo`
 
         }
 
