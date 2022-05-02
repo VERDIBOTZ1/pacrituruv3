@@ -89,7 +89,7 @@ bc = 'fachri-botz🐾' //King Of Bear Broadcast
 footer = '\nꜰᴀᴄʜʀɪʙᴏᴛᴢ 🐾'
 namabot = 'ꜰᴀᴄʜʀɪʙᴏᴛᴢ 🐾'
 namalu = '𝐅𝐀𝐂𝐇𝐑𝐈'
-global.botwm = `ꜰᴀᴄʜʀɪʙᴏᴛᴢ ✨`//UBAH JADI NAMAMU
+global.botwm = `꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Fachri - Botz˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷`//UBAH JADI NAMAMU
 
 
 // 
