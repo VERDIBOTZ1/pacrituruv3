@@ -576,26 +576,26 @@ global.dfail = (type, m, conn) => {
 
 	let namae = conn.getName(syappa)
   let msg = {
-    rowner: `Khusus Untuk Fachri Tersayang >w<`,
-    owner: `Khusus Untuk Fachri Tersayang >w<`,
-    mods: `Khusus Untuk Fachri Tersayang >w<`,
-    premium: 'Perintah Ini khusus pengguna _*Premium*_ !',
+    rowner: `Khusus Untuk Fachri Tersayang ya kak >w<`,
+    owner: `Khusus Untuk Fachri Tersayang ya kak >w<`,
+    mods: `Khusus Untuk Fachri Tersayang ya kak >w<`,
+    premium: 'Perintah Ini khusus pengguna _*Premium*_ kak !',
     group: 'Perintah ini hanya dapat digunakan di grup!',
-    private: 'Pakai Di Chat Pribadi Bang',
+    private: 'Pakai Di Chat Pribadi ya kak',
     admin: 'Perintah ini hanya untuk *Admin* grup!',
     nsfw: `Perintah ini hanya bisa diaktifkan oleh @${global.kontak[0].split`@`[0]}`,
     botAdmin: 'Jadikan Bot sebagai admin untuk menggunakan perintah ini\n\nDenger ya dekkk!!!\nApakah orang yang tidak menjadi admin bisa menambahkan member???!!!!!',
-    /*unreg: `*── 「 NOT REGISTERED 」 ──*
+    /*unreg: `*── 「 BELUM TERDAFTAR 」 ──*
 
-Halo Kak @${m.sender.split`@`[0]} !
+Halo Kak, @${m.sender.split`@`[0]} !
 
-Yuk Daftar Dulu Karena Anda Belum Terdaftar Dalam Database Bot
+Yuk Daftar Dulu Karena Kamu Belum Terdaftar Dalam Database FachriBotz
 
     
 
 📍 Ketik : #daftar nama.umur
 
-▸ Contoh : #daftar ${user}.13`*/
+▸ Contoh : #daftar fachri.14`*/
 
   }[type]
 
@@ -603,7 +603,7 @@ Yuk Daftar Dulu Karena Anda Belum Terdaftar Dalam Database Bot
 
   
 
-  let titreg = '*-`── 「 NOT REGISTERED 」 ──´-*'
+  let titreg = '*-`── 「 BELUM TERDAFTAR 」 ──´-*'
 
   let msgg = {
 
@@ -611,9 +611,9 @@ Yuk Daftar Dulu Karena Anda Belum Terdaftar Dalam Database Bot
 
 Halo kak ${namae} !
 
-Yuk Daftar Dulu Karena Anda Belum Terdaftar Dalam Database Fachribotz 🗂️
+Yuk Daftar Dulu kak, Karena Kamu Belum Terdaftar Dalam Database Fachribotz 🗂️
 
-📮 Silahkan Klik tombol dibawah, dan pilih umur anda!`
+📮 Silahkan Klik tombol dibawah, dan pilih umur kamu ya kak!`
 
 }[type]
 
@@ -637,7 +637,7 @@ Yuk Daftar Dulu Karena Anda Belum Terdaftar Dalam Database Fachribotz 🗂️
 
                                 "rows": [{
 
-                                         "title": "📊 › 𐐪- Status -𐑂",
+                                         "title": "➵͜͡✪› 𐐪- Status -𐑂",
 
                                          "description": "Status Fachribotz",
 
@@ -645,7 +645,7 @@ Yuk Daftar Dulu Karena Anda Belum Terdaftar Dalam Database Fachribotz 🗂️
 
                                     }, {
 
-                                         "title": "⚡› 𐐪- Speed -𐑂",
+                                         "title": "➵͜͡✪› 𐐪- Speed -𐑂",
 
                                          "description": "Menampilkann Kecepatan Respon Bot",
 
@@ -653,7 +653,7 @@ Yuk Daftar Dulu Karena Anda Belum Terdaftar Dalam Database Fachribotz 🗂️
 
                                     }, {
 
-                                         "title": "🗒️› 𐐪- Info -𐑂",
+                                         "title": "➵͜͡✪› 𐐪- Info -𐑂",
 
                                          "description": "Menampilkan Info Bot",
 
@@ -661,7 +661,7 @@ Yuk Daftar Dulu Karena Anda Belum Terdaftar Dalam Database Fachribotz 🗂️
 
                                     }, {
 
-                                         "title": "🎐 › 𐐪- Creator -𐑂",
+                                         "title": "➵͜͡✪› 𐐪- Creator -𐑂",
 
                                          "description": "Kontak Creator Ku ^~^",
 
@@ -669,7 +669,7 @@ Yuk Daftar Dulu Karena Anda Belum Terdaftar Dalam Database Fachribotz 🗂️
 
                                     }, {
 
-                                         "title": "❗ › 𐐪- Rules -𐑂",
+                                         "title": "➵͜͡✪› 𐐪- Rules -𐑂",
 
                                          "description": "Patuhi Rules Untuk Kenyamanan Bersama",
 
@@ -677,7 +677,7 @@ Yuk Daftar Dulu Karena Anda Belum Terdaftar Dalam Database Fachribotz 🗂️
 
                                     }, {
 
-                                         "title": "🪙 › 𐐪- Leaderboard -𐑂",
+                                         "title": "➵͜͡✪› 𐐪- Leaderboard -𐑂",
 
                                          "description": "Cek Posisi Mu",
 
@@ -685,7 +685,7 @@ Yuk Daftar Dulu Karena Anda Belum Terdaftar Dalam Database Fachribotz 🗂️
 
                        }, {
 
-                                         "title": "💌 › 𐐪- Group Bot -𐑂",
+                                         "title": "➵͜͡✪› 𐐪- Group Bot -𐑂",
 
                                          "description": "Join Ke Grup Official Fachribotz",
 
@@ -693,133 +693,133 @@ Yuk Daftar Dulu Karena Anda Belum Terdaftar Dalam Database Fachribotz 🗂️
 
                        }],
 
-                    "title": "𝗗𝗮𝗳𝘁𝗮𝗿 」"
+                    "title": "𝗗𝗮𝗳𝘁𝗮𝗿"
 
                 }, {
 
                   "rows": [{                               
 
-                                         "title": '27 Tahun',
+                                         "title": '☰ 27 Tahun',
                                          "description": "Fachribotz Is The Best ❤️",
                                          "rowId": '.daftar ' + namae + '.27'
 
                                     }, {
 
-                                         "title": '26 Tahun',
+                                         "title": '☰ 26 Tahun',
                                          "description": "Fachribotz Is The Best ❤️",
                                          "rowId": '.daftar ' + namae + '.26'
 
                                     }, {
 
-                                    	"title": '25 Tahun',
+                                    	"title": '☰ 25 Tahun',
                                          "description": "Fachribotz Is The Best ❤️",
                                          "rowId": '.daftar ' + namae + '.25'
 
                                     }, {
 
-                                    	"title": '24 Tahun',
+                                    	"title": '☰ 24 Tahun',
                                          "description": "Fachribotz Is The Best ❤️",
                                          "rowId": '.daftar ' + namae + '.24'
 
                                     }, {
 
-                                    	"title": '23 Tahun',
+                                    	"title": '☰ 23 Tahun',
                                          "description": "Fachribotz Is The Best ❤️",
                                          "rowId": '.daftar ' + namae + '.23'
 
                                     }, {
 
-                                    	"title": '22 Tahun',
+                                    	"title": '☰ 22 Tahun',
                                          "description": "Fachribotz Is The Best ❤️",
                                          "rowId": '.daftar ' + namae + '.22'
 
                                     }, {
 
-                                    	"title": '21 Tahun',
+                                    	"title": '☰ 21 Tahun',
                                          "description": "Fachribotz Is The Best ❤️",
                                          "rowId": '.daftar ' + namae + '.21'
 
                                     }, {
 
-                                    	"title": '20 Tahun',
+                                    	"title": '☰ 20 Tahun',
                                          "description": "Fachribotz Is The Best ❤️",
                                          "rowId": '.daftar ' + namae + '.20'
 
                                     }, {
 
-                                    	"title": '19 Tahun',
+                                    	"title": '☰ 19 Tahun',
                                          "description": "Fachribotz Is The Best ❤️",
                                          "rowId": '.daftar ' + namae + '.19'
 
                                     }, {
 
-                                    	"title": '18 Tahun',
+                                    	"title": '☰ 18 Tahun',
                                          "description": "Fachribotz Is The Best ❤️",
                                          "rowId": '.daftar ' + namae + '.18'
 
                                     }, {
 
-                                    	"title": '17 Tahun',
+                                    	"title": '☰ 17 Tahun',
                                          "description": "Fachribotz Is The Best ❤️",
                                          "rowId": '.daftar ' + namae + '.17'
 
                                     }, {
 
-                                    	"title": '16 Tahun',
+                                    	"title": '☰ 16 Tahun',
                                          "description": "Fachribotz Is The Best ❤️",
                                          "rowId": '.daftar ' + namae + '.16'
 
                                     }, {
 
-                                    	"title": '15 Tahun',
+                                    	"title": '☰ 15 Tahun',
                                          "description": "Fachribotz Is The Best ❤️",
                                          "rowId": '.daftar ' + namae + '.15'
 
                                     }, {
 
-                                    	"title": '14 Tahun',
+                                    	"title": '☰ 14 Tahun',
                                          "description": "Fachribotz Is The Best ❤️",
                                          "rowId": '.daftar ' + namae + '.14'
 
                                     }, {
 
-                                    	"title": '13 Tahun',
+                                    	"title": '☰ 13 Tahun',
                                          "description": "Fachribotz Is The Best ❤️",
                                          "rowId": '.daftar ' + namae + '.13'
 
                                     }, {
 
-                                    	"title": '12 Tahun',
+                                    	"title": '☰ 12 Tahun',
                                          "description": "Fachribotz Is The Best ❤️",
                                          "rowId": '.daftar ' + namae + '.12'
 
                                     }, {
 
-                                    	"title": '11 Tahun',
+                                    	"title": '☰ 11 Tahun',
                                          "description": "Fachribotz Is The Best ❤️",
                                          "rowId": '.daftar ' + namae + '.11'
 
                                     }, {
 
-                                    	"title": '10 Tahun',
+                                    	"title": '☰ 10 Tahun',
                                          "description": "Fachribotz Is The Best ❤️",
                                          "rowId": '.daftar ' + namae + '.10'
 
                                          }, {
 
-                                    	"title": '9 Tahun',
+                                    	"title": '☰ 9 Tahun',
                                          "description": "Fachribotz Is The Best ❤️",
                                          "rowId": '.daftar ' + namae + '.9'
 
                        }],
 
-                                "title": "𝗖𝗮𝘁𝗲𝗴𝗼𝗿𝘆 」"
+                                "title": "𝗖𝗮𝘁𝗲𝗴𝗼𝗿𝘆"
 
                                 }, {
 
                                 "rows": [{
 
-                                "title": "🗳️ ∫ » Donasi «",
+                                "title": "✪ ∫ » Donasi «",
 
                                 "description": "Donasi kak, jangan enak pakenya doang",
 
@@ -827,7 +827,7 @@ Yuk Daftar Dulu Karena Anda Belum Terdaftar Dalam Database Fachribotz 🗂️
 
                                 }, {
 
-                                "title": "🎖️ ∫  » Thanks To «",
+                                "title": "✪ ∫  » Thanks To «",
 
                                 "description": "Terima kasih banyak untuk user yang telah berpartisipasi dalam FachriBotz",
 
