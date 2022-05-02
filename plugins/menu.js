@@ -74,6 +74,7 @@ const defaultMenu = {
   after: `⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❘❚❙❘❙❙❘❚❙❘❙❙❘❘❙❚❙❘❙❚❙❘❙❘❙❚❙ ⌕.
 
      々›%me
+ Powered By %waofc
 
 `,
 
