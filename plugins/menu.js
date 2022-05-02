@@ -73,7 +73,7 @@ const defaultMenu = {
 
   after: `⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❘❚❙❘❙❙❘❚❙❘❙❙❘❘❙❚❙❘❙❚❙❘❙❘❙❚❙ ⌕.
 
-     %me
+     々›%me
 
 `,
 
@@ -502,7 +502,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
 
     const detikk = Math.floor( lebih % (1000 * 60) / 1000)
 
-const ultah = new Date('oktober 17, 2023 23:59:59')
+const ultah = new Date('october 17, 2023 23:59:59')
 
     const sekarat = new Date().getTime() 
 
@@ -734,7 +734,7 @@ const ultah = new Date('oktober 17, 2023 23:59:59')
 ┴
 ✧
 ┬ 📮 *Note* :
-│ Beri Jeda Kak biar ga delay ^ω^
+│ Beri Jeda Kak biar ga delay ^ω^.
 ╰━━━━━━━━━━━━━┈─ɞ
 
    ▌│█║▌║▌║║▌║▌║█│▌
