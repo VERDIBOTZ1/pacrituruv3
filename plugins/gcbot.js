@@ -3,11 +3,11 @@ let handler = async (m, { conn, text }) => {
   let ext= `
 ʚ───═[ 𝗚𝗥𝗨𝗣 𝗕𝗢𝗧 ]═───ɞ
 
-https://chat.whatsapp.com/ESeBcdKcHFm7BnyNiSZPvi
+https://chat.whatsapp.com/GimZmhA2XTQFfPXk4XMrv6
 
 ✧─────···───────✧
 `.trim()
-conn.send2ButtonLoc(m.chat, await (await fetch(fla + 'Fachri Groups')).buffer(), ext, '🎮 Created By Fachri', 'Siap Fachri', 'Iya', 'Owner', '.owner', m)
+conn.send2ButtonLoc(m.chat, await (await fetch(fla + 'FachriBotz')).buffer(), ext, '🎮 Created By Fachri', 'Siap Fachri', 'Iya', 'Owner', '.owner', m)
 
 }
 handler.help = ['gcbot1']
