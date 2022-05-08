@@ -17,6 +17,10 @@ let handler = async(m, { conn }) => {
 9) $ pkg install nano
 10) $ pkg install imagemagick
 
+install to okteto web
+chat ae bang di ajarin sampek bisa
++6285706735450
+
 🎨 *Untuk Sc nya cari sendiri, atau beli sc ku*
 11) $ termux-setup-storage
 12) $ cd storage/downloads/(nama file yg kmu rename)
@@ -30,12 +34,12 @@ $ npm i pm2 && pm2 start (sesuaikan sama sc kalian)
 
 💻 Info : Link Termux Di Klik Disini  Hapus Termux Lama Anda Ganti Sama Yang Saya Kasih`.trim()
   const button = {
-        buttonText: 'Tutor By FachriBotz',
+        buttonText: 'Tutor By VERDI X FachriBotz',
         description: kontol,
         sections:  [{title: "Silahkan di pilih gausah pilih yang gaada", rows: [
         {title: 'Termux', description: "Link Aplikasi Termux", rowId:".termux"},
-        {title: 'Script', description: "2022 Masih Cari Sc Awokawok", rowId:".sc"},        
-        {title: 'Owner', description: "Creator FachriBotz >w<", rowId:".nowner"},
+        {title: 'Script', description: "2022 Masih Cari Sc cari cwek lah🗿", rowId:".sc"},        
+        {title: 'Owner', description: "Creator FachriBotz X VERDI >w<", rowId:".nowner"},
        ] }],
         listType: 1
        }
