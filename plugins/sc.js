@@ -20,11 +20,13 @@ const ftrol = {
     }
 let pp = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text=Source+code'
 let info = `◪ 📮 *SCRIPT BOT*
-│ *Script FachriBotz :* 
+│ *Script ori by FachriBotz :* 
 │ ╰ https://github.com/Ipulpachri/fachribotzv3
 │ *Base :* 
-│ ╰ https://github.com/bochilgaming/games-wabot
-│ *RestApi :* https://hardianto.xyz
+│ ╰https://github.com/bochilgaming/games-wabot
+│  scrip recode verdibotz
+|  ╰ http://github.com/pacrituruv3
+| *RestApi :* https://hardianto.xyz
 ╰─────═┅═────────
 📍 *N o t e :* 
 • Jangan lupa minta izin owner sebelum menggunakan scriptnya kak!
