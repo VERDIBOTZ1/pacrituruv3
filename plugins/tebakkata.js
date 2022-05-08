@@ -5,7 +5,7 @@ let handler = async (m, { conn, usedPrefix }) => {
     conn.tebakkata = conn.tebakkata ? conn.tebakkata : {}
     let id = m.chat
     if (id in conn.tebakkata) {
-        conn.reply(m.chat, 'Masih ada soal belum terjawab di chat ini', conn.tebakkata[id][0])
+        conn.reply(m.chat, 'Masih ada soal belum terjawab anjg minta soal lagi asu', conn.tebakkata[id][0])
         throw false
     }
     let res = await fetch('https://raw.githubusercontent.com/BochilTeam/database/master/games/tebakkata.json')
@@ -23,7 +23,7 @@ Bonus: ${poin} XP
         await conn.sendButton(m.chat, caption, footer, 'Bantuan', '.teka',m),
         json, poin,
         setTimeout(async () => {
-            if (conn.tebakkata[id]) await conn.sendButton(m.chat, `Waktu habis!\nJawabannya adalah *${json.jawaban}*`, footer, 'Tebak Kata', '.tebakkata',m)
+            if (conn.tebakkata[id]) await conn.sendButton(m.chat, `Waktu habis haha gblok!\nJawabannya adalah *${json.jawaban}*`, footer, 'Tebak Kata', '.tebakkata',m)
             delete conn.tebakkata[id]
         }, timeout)
     ]
