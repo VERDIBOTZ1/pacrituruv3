@@ -11,7 +11,7 @@
 // thank you to MikeBot Dev Team
 // thank you to ALL Bot creator
 // and thanks you to who support my Bot
-
+//tanks to verdi penyedia file okteto
 //wektukk
 let moment = require('moment-timezone')
 let d = new Date(new Date + 3600000)
@@ -34,9 +34,9 @@ gc1 = ''
 gc2 = ''
 gc3 = ''
 global.linkGC = ['https://chat.whatsapp.com/GimZmhA2XTQFfPXk4XMrv6', ''] // ganti jadi group lu
-global.owner = ['6285713041886'] // Put your number here //owner eval
-global.kontak = ['6285713041886','62896853821126'] //Ketika ada yang ngetik #owner
-global.mods = ['6285713041886'] // Want some help?
+global.owner = ['628706735450'] // Put your number here //owner eval
+global.kontak = ['6285706735450','6283869803330'] //Ketika ada yang ngetik #owner
+global.mods = ['6285706735450'] // Want some help?
 global.prems = ['6285713041886'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -73,23 +73,23 @@ bearkey = 'buy'
 
 //xteam        MIMINETBOT
 namaig = 'https://instagram.com/sfdesign_id'
-namagithub = 'https://github.com/Ipulpachri'
-kasihcaption = `Nih kak`
+namagithub = 'https://github.com/VERDIBOTZ1'
+kasihcaption = `Nih NJIG`
 namakontak1 = ''
 namakontak2 = ''
 
-//kasihcaption = `Nih Kak`
+//kasihcaption = `Nih jing`
 
 // Sticker WM
-global.packname = 'Fachri - Botz' // ganti aja
-global.author = '© 𝐅𝐀𝐂𝐇𝐑𝐈🐾' // ganti aja
+global.packname = 'V - ERDIBotz' // ganti aja
+global.author = '© ANJG DEK🐾' // ganti aja
 
 //yyy
-bc = 'fachri-botz🐾' //King Of Bear Broadcast
+bc = 'Verdi-botz🐾' //King Of Bear Broadcast
 footer = '\nꜰᴀᴄʜʀɪʙᴏᴛᴢ 🐾'
-namabot = 'ꜰᴀᴄʜʀɪʙᴏᴛᴢ 🐾'
-namalu = '𝐅𝐀𝐂𝐇𝐑𝐈'
-global.botwm = `꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Fachri - Botz˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷`//UBAH JADI NAMAMU
+namabot = 'VERDI BOTZ 🐾'
+namalu = 'VERDI TZY'
+global.botwm = `꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘VERDI - Botz˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷`//UBAH JADI NAMAMU
 
 
 // 
