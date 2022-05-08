@@ -8,7 +8,7 @@ remoteJid: 'status@broadcast'
 },
 message: {
 locationMessage: {
-name: 'Ini Kak Owner FachriBotz OωO',
+name: 'Ini Kak Owner VERDI BOTZ',
 jpegThumbnail: fs.readFileSync('./src/mikey.jpg')
   }
  }
@@ -30,8 +30,8 @@ let list = []
 ]
 const buttonsMessage = {
     contentText: `
-Itu Owner Ku Kak >ω<
-*Jangan Di Apa Apain Kak Owner Ku.*
+Itu Owner gw bang 🗿 regedit By verdi
+*Jangan Di Apa Apain yah anjg nih owner ganteng.*
 `.trim(),    footerText: ``,
     buttons: buttons,
   headerType: 'EMPTY'
