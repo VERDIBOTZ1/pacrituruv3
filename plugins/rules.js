@@ -22,14 +22,14 @@ let handler = async(m, { conn }) => {
 7. 𝙊𝙬𝙣𝙚𝙧 𝙃𝙖𝙤𝙧𝙞 𝙙𝙖𝙥𝙖𝙩 𝙢𝙚𝙡𝙞𝙝𝙖𝙩 𝙧𝙞𝙬𝙖𝙮𝙖𝙩 𝙘𝙝𝙖𝙩, 𝙙𝙖𝙣 𝙢𝙚𝙙𝙞𝙖 𝙮𝙖𝙣𝙜 𝙙𝙞𝙠𝙞𝙧𝙞𝙢𝙠𝙖𝙣 𝙪𝙨𝙚𝙧𝙨.
 ╰═══════════════❏
 ║╭─❉ 〔 𝗦𝗧𝗔𝗧𝗨𝗦 𝗕𝗢𝗧 〕 ❉──´-
-║│➥ *name:* Fachri Botz
+║│➥ *name:* VERDI BOTZ
 ║│➥ *HomePage:* -
 ║│➥ *Issue:* -
 ║│➥ *Total user:* *${Object.keys(global.db.data.users).length}* Pengguna
 ║╰──────────────⊰
 ║╭───❉〘 𝘿𝙊𝙉𝘼𝙎𝙄 〙❉───´-
-║│➥ Telkomsel : 
-║│➥ Dana : 6285713041886
+║│➥ indosat : 085706735450
+║│➥ Dana : 6285706735450
 ║╰──────────────⊰
 ║╭──❉〘 𝗥𝗘𝗤𝗨𝗘𝗦𝗧 〙❉───´-
 ║│➥ -
@@ -41,23 +41,23 @@ let handler = async(m, { conn }) => {
 ║╰──────────────⊰
 ╠═══════════════❏
 ║╭─────────────´-
-║│ © FachriBotz
-║│ 𝘾𝙧𝙚𝙖𝙩𝙤𝙧 𝙗𝙮 Fachri👑
+║│ © VERDI BOTZ 
+║│ 𝘾𝙧𝙚𝙖𝙩𝙤𝙧 𝙗𝙮 Verdi👑
 ║╰─────────────⊰
 ╠════════════════════════
 ║╭─────────────´-
 ║│ © 𝟮𝟬𝟮𝟭 𝗥𝗽𝗴 𝘄𝗮𝗯𝗼𝘁-𝗮𝗾
 ║│ 𝗦𝗰𝗿𝗶𝗽 𝗼𝗿𝗶𝗴𝗶𝗻𝗮𝗹 𝗯𝘆 𝗭𝗶𝘃𝗳𝘂𝗿𝗿
 ║╰─────────────⊰
-╰════〘 FachriBotz *_?_*〙 ══❏`.trim()
+╰════〘 VERDIBOTZ *_?_*〙 ══❏`.trim()
   const button = {
         buttonText: 'Klik Di sini',
         description: kontol,
-        sections:  [{title: "Silahkan di pilih gausah pilih yang gaada", rows: [
-        {title: '🧾 › Menu Utama', description: "Kembali ke Menu Utama", rowId:".?"},
+        sections:  [{title: "Silahkan di pilih gausah pilih yang gaada bestie", rows: [
+        {title: '🧾 › Menu Utama', description: "Kembali ke Menu Utama bestie", rowId:".?"},
         {title: '🔖› Sewa Bot', description: "Sewa bot dengan memasukkan bot ke grup kamu", rowId:".sewa"},
-        {title: '💌 › Group Bot', description: "Official Group Bot Fachri", rowId:".gcbot"},
-        {title: '🍭 › Owner', description: "Creator Fachri  >ω<", rowId:".nowner"},
+        {title: '💌 › Group Bot', description: "Official Group Bot ", rowId:".gcbot"},
+        {title: '🍭 › Owner', description: "Creator VERDIBOTZ ", rowId:".nowner"},
        ] }],
         listType: 1
        }
