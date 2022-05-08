@@ -5,9 +5,10 @@ let handler = async (m, { conn, text }) => {
 
 https://chat.whatsapp.com/GimZmhA2XTQFfPXk4XMrv6
 
+
 ✧─────···───────✧
 `.trim()
-conn.send2ButtonLoc(m.chat, await (await fetch(fla + 'FachriBotz')).buffer(), ext, '🎮 Created By Fachri', 'Siap Fachri', 'Iya', 'Owner', '.owner', m)
+conn.send2ButtonLoc(m.chat, await (await fetch(fla + 'FachriBotz')).buffer(), ext, '🎮 Created By Verdi', 'Siap Fachri', 'Iya', 'Owner', '.owner', m)
 
 }
 handler.help = ['gcbot1']
