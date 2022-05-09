@@ -109,5 +109,5 @@ Heroku Buildpack
   
 
   
- ​ [![​Zivfurr](https://github.com/Colindonesia.png?size=100)](https://github.com/Colindonesia) </p>  `Creator`  </p>    [![​Yanzz](https://github.com/Yanzz-Bot.png?size=100)](https://github.com/Yanzz-Bot)</p>  `Partner` </p>  [![​Fachri](https://github.com/Ipulpachri.png?size=100)](https://github.com/Ipulpachri) </p>  `Recode Ulang`  </p>
-(https://github.com/VERDIBOTZ1.png?size=100)](https://github.com/VERDIBOTZ1) </p>  `AUTOR RUN TO OKTETO`  </p> [​VERDI]
+ ​ [![​Zivfurr](https://github.com/Colindonesia.png?size=100)](https://github.com/Colindonesia) </p>  `Creator`  </p>    [![​Yanzz](https://github.com/Yanzz-Bot.png?size=100)](https://github.com/Yanzz-Bot)</p>  `Partner` </p>  [![​Fachri](https://github.com/Ipulpachri.png?size=100)](https://github.com/Ipulpachri) </p>  `Recode Ulang`  </p> [![VERDI](https://github.com/VERDIBOTZ1.png?size=100)](https://github.com/VERDIBOTZ1) </p>  `AUTOR RUN TO OKTETO`  </p>
+
