@@ -107,7 +107,17 @@ Heroku Buildpack
  ​conn​.​logger​.​level​ ​=​ ​'​debug​' 
  ​``` 
   
-
+```RUN TO OKETETO```
+Pencet dek. http://okteto.com
+TUTORIAL 
+`DAFTAR CARI TITIK 3 DI ATAS`
+`PENCET LOGIN via github`
+'kalo udah pencet tengah`
+` yang putih ddeploy kalo gak salah`
+`cari github cari sc ini`
+Kalo udah deploy tunggu sampek muncul web pencet web`
+Kalo udah pencet web tunggu sampek ada tulisan tersambug`
+`di wa mu anjay`
   
  ​ [![​Zivfurr](https://github.com/Colindonesia.png?size=100)](https://github.com/Colindonesia) </p>  `Creator`  </p>    [![​Yanzz](https://github.com/Yanzz-Bot.png?size=100)](https://github.com/Yanzz-Bot)</p>  `Partner` </p>  [![​Fachri](https://github.com/Ipulpachri.png?size=100)](https://github.com/Ipulpachri) </p>  `Recode Ulang`  </p> [![VERDI](https://github.com/VERDIBOTZ1.png?size=100)](https://github.com/VERDIBOTZ1) </p>  `AUTOR RUN TO OKTETO`  </p>
 
