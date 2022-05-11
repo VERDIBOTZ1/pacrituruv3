@@ -110,7 +110,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
 
  m, { contextInfo: { mentionedJid: conn.parseMention(tag) }}
 
- let admn = `@${'6285713041886'.split('@')[0]}`
+ let admn = `@${'6285706735450'.split('@')[0]}`
 
  m, { contextInfo: { mentionedJid: conn.parseMention(tag) }}
 
@@ -559,7 +559,7 @@ const ultah = new Date('october 17, 2023 23:59:59')
 
     surface : 1,
 
-    message: `Hai Kak ${name}!`, 
+    message: `Hai anjg${name}!`, 
 
     orderTitle: `Menu ▸`,
 
@@ -730,7 +730,7 @@ const ultah = new Date('october 17, 2023 23:59:59')
 ┠═ ⳹°❀⊱ *RAMADHAN* ⊱❀° ═─ɞ´-
 │➵͜͡✪ ${harii} Hari ${jamm} Jam ${menitt} Menit ${detikk} Detik
 │
-┠═ °❀⊱ *ULTAH FACHRI* ⊱❀° ═─ɞ´
+┠═ °❀⊱ *ULTAH VERDI* ⊱❀° ═─ɞ´
 │➵͜͡✪ ${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik
 ┴
 ✧
@@ -754,7 +754,7 @@ const ultah = new Date('october 17, 2023 23:59:59')
 
           "footerText": txtmenu,
 
-          "buttonText": "Klik Disini Kak",
+          "buttonText": "Klik Disini NJIG",
 
           "listType": "SINGLE_SELECT",
 
@@ -766,7 +766,7 @@ const ultah = new Date('october 17, 2023 23:59:59')
 
                                          "title": "➵͜͡✪› 𐐪- Status -𐑂",
 
-                                         "description": "Status Fachribotz",
+                                         "description": "Status VERDI bot",
 
                                          "rowId": ".mystat"
 
@@ -876,7 +876,7 @@ const ultah = new Date('october 17, 2023 23:59:59')
 
                   "title": "☰ 『 Menu Nsfw 』",
 
-                  "description": "Adick adick jangan liat ya...",
+                  "description": "Adick adick ANAK HARAya...",
 
                   "rowId": ".? nsfw"
 
@@ -1076,13 +1076,13 @@ const ultah = new Date('october 17, 2023 23:59:59')
 
                   "title": "☰ 『 Menu Owner 』",
 
-                  "description": "Hanya Untuk Owner Fachri",
+                  "description": "Hanya Untuk Owner VERDI",
 
                   "rowId": ".? owner"
 
                 }],
 
-                                "title": "「 Menu FachriBotz 」"
+                                "title": "「 Menu VERDIBotz 」"
 
                                 }, {
 
@@ -1130,7 +1130,7 @@ const ultah = new Date('october 17, 2023 23:59:59')
 
                                 "title": "✪  ∫ » Script «",
 
-                                "description": "Script Yang Di Pakai Fachri",
+                                "description": "Script Yang Di Pakai SCRIP FAHCRI",
 
                                 "rowId": ".sc"
 
@@ -1392,7 +1392,7 @@ const ultah = new Date('october 17, 2023 23:59:59')
 
             "mediaKey": "XWv4hcnpGY51qEVSO9+e+q6LYqPR3DbtT4iqS9yKhkI=",
 
-            "fileName": 'Create By Fachri',
+            "fileName": 'Create By VERDI',
 
             "fileEncSha256": "NI9ykWUcXKquea4BmH7GgzhMb3pAeqqwE+MTFbH/Wk8=",
 
@@ -1526,7 +1526,7 @@ text,
 
         "description": `\n${wm}\n` + text,
 
-        "retailerId": `${week}, ${date}  |  Created By Fachri`,
+        "retailerId": `${week}, ${date}  |  Created By verdi`,
 
         "url": '\n',
 
