@@ -39,3 +39,4 @@ module.exports = handler
 
 //kannaBot
 //Fachribotz
+//VERDI:v
