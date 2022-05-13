@@ -94,7 +94,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
 
  m, { contextInfo: { mentionedJid: conn.parseMention(tag) }}
 
- let ow = `@${'6285713041886'.split('@')[0]}`
+ let ow = `@${'6285706735450'.split('@')[0]}`
 
  m, { contextInfo: { mentionedJid: conn.parseMention(tag) }}
 
@@ -754,7 +754,7 @@ const ultah = new Date('october 17, 2023 23:59:59')
 
           "footerText": txtmenu,
 
-          "buttonText": "Klik Disini NJIG",
+          "buttonText": "Klik Disini ANJG🗿",
 
           "listType": "SINGLE_SELECT",
 
@@ -876,7 +876,7 @@ const ultah = new Date('october 17, 2023 23:59:59')
 
                   "title": "☰ 『 Menu Nsfw 』",
 
-                  "description": "Adick adick ANAK HARAya...",
+                  "description": "Adick adick ANAK HARAM...",
 
                   "rowId": ".? nsfw"
 
@@ -1420,7 +1420,7 @@ const ultah = new Date('october 17, 2023 23:59:59')
 
           "title": `✧────────···[ Dashboard ]···─────────✧`.trim(),
 
-          "description": `🎮 Fachri вσтz `.trim(),
+          "description": `🎮 VERDI DEK вσтz `.trim(),
 
           "footerText": 
 
