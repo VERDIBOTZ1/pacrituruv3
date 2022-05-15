@@ -1,15 +1,25 @@
-let fetch = require('node-fetch')
-let handler = async (m, { text, usedPrefix, command }) => {
-  if (!text) throw `uhm.. teksnya mana?\n\ncontoh:\n${usedPrefix + command} hai`
-  let res = await fetch(global.API('pencarikode', '/api/simsimii', { text: encodeURIComponent(text) }, 'apikey'))
-  if (!res.ok) throw eror
-  let json = await res.json()
-  if (json.result == 'Aku tidak mengerti apa yang kamu katakan.Tolong ajari aku.') await m.reply('siminya blom diajarin jadi gatau t_t custom pesannya di https://simsimi.com/teach')
-  await m.reply(`*Simi:* ${json.result}`)
+// simi
+import fetch from 'node-fetch'
+
+export async function before(m) {
+    let chat = db.data.chats[m.chat]
+    if (chat.simi) {
+        if (!m.text) return
+        let url = `https://api-sv2.simsimi.net/v2/?text=${m.text}&lc=id&cf=true`
+        let res = await fetch(url)
+        let json = await res.json()
+        let {
+            response,
+            result
+        } = json.messages[0]
+        await this.chatRead(m.chat, m.sender, m.id || m.key.id)
+        await delay(1000)
+        await this.sendPresenceUpdate('composing', m.chat)
+        await delay(2000)
+        m.reply(response)
+        return !0
+    }
+    return !0
 }
-handler.help = ['simi', 'simsimi', 'simih'].map(v => v + ' <teks>')
-handler.tags = ['fun']
-handler.command = /^((sim)?simi|simih)$/i
 
-module.exports = handler
-
+const delay = time => new Promise(res => setTimeout(res, time))
