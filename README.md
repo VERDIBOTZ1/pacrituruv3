@@ -119,5 +119,8 @@ Kalo udah deploy tunggu sampek muncul web pencet web`
 Kalo udah pencet web tunggu sampek ada tulisan tersambug`
 `di wa mu anjay`
   
- ​ [![​Zivfurr](https://github.com/Colindonesia.png?size=100)](https://github.com/Colindonesia) </p>  `Creator`  </p>    [![​Yanzz](https://github.com/Yanzz-Bot.png?size=100)](https://github.com/Yanzz-Bot)</p>  `Partner` </p>  [![​Fachri](https://github.com/Ipulpachri.png?size=100)](https://github.com/Ipulpachri) </p>  `Recode Ulang`  </p> [![VERDI](https://github.com/VERDIBOTZ1.png?size=100)](https://github.com/VERDIBOTZ1) </p>  `AUTOR RUN TO OKTETO`  </p>
+ ​ [![​Zivfurr](https://github.com/Colindonesia.png?size=100)](https://github.com/Colindonesia) </p>  `Creator`  </p>    [![​Yanzz](https://github.com/Yanzz-Bot.png?size=100)](https://github.com/Yanzz-Bot)</p>  `Partner` </p>  [![​Fachri](https://github.com/Ipulpachri.png?size=100)](https://github.com/Ipulpachri) </p>  `Recode Ulang`  </p> [![VERDI](https://github.com/VERDIBOTZ1.png?size=100)](https://github.com/VERDIBOTZ1) </p>  `AUTOR FIX BUG`  </p>
+ 
+MAU BILANG 
+[![SC INI WORK RUN DI MANA AJA]  </p>
 
